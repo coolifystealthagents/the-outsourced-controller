@@ -1,0 +1,765 @@
+{
+  "dir": "the-outsourced-controller",
+  "domain": "theoutsourcedcontroller.com",
+  "brand": "The Outsourced Controller",
+  "short": "Outsourced Controller",
+  "variant": "boardroom",
+  "colors": [
+    "#23201f",
+    "#f4efe5",
+    "#781d2a",
+    "#b56e41"
+  ],
+  "fontDisplay": "Times New Roman",
+  "fontBody": "Helvetica",
+  "hero": "exec-0c4a605b-3588-4586-8b1e-93ac6c8fbb56.png",
+  "mark": "balance",
+  "eyebrow": "Executive financial control room",
+  "headline": "Build a calmer close and a more visible finance workflow.",
+  "intro": "Remote controller support for close coordination, reporting preparation, reconciliations, and management information. Your licensed accountants, tax advisers, auditors, and fiduciaries keep their professional responsibilities.",
+  "audience": "founders, finance leaders, and growing operating companies",
+  "noun": "close",
+  "plural": "finance workflows",
+  "disclaimer": "Services are operational and administrative support. They are not an audit, review, attestation, tax service, legal service, fiduciary service, or substitute for a licensed professional.",
+  "services": [
+    [
+      "Month-end close coordination",
+      "Maintain close calendars, evidence requests, review queues, and owner visibility."
+    ],
+    [
+      "Management reporting support",
+      "Prepare approved reporting packs, variance notes, and recurring distribution workflows."
+    ],
+    [
+      "Reconciliation workflow support",
+      "Organize reconciliations, attach support, and route exceptions for authorized review."
+    ],
+    [
+      "Accounts payable controls support",
+      "Maintain approval trails, payment queues, and vendor record follow-up."
+    ],
+    [
+      "Accounts receivable operations",
+      "Coordinate invoicing support, aging worklists, and approved customer follow-up."
+    ],
+    [
+      "Cash visibility support",
+      "Maintain approved cash schedules and surface timing questions without providing investment advice."
+    ],
+    [
+      "Finance process documentation",
+      "Document responsibilities, close controls, and repeatable operating procedures."
+    ]
+  ],
+  "blog": [
+    [
+      "month-end-close-coordination",
+      "Month-end close coordination: a control-focused guide",
+      "Close operations",
+      "A practical close system built around ownership, evidence, review, and exception resolution."
+    ],
+    [
+      "management-reporting-workflow",
+      "Management reporting workflow for leadership teams",
+      "Reporting",
+      "How to prepare consistent reporting inputs and decision-ready management packs."
+    ],
+    [
+      "fractional-cfo-vs-controller-va",
+      "Fractional CFO vs controller VA",
+      "Role comparisons",
+      "A clear distinction between strategic finance leadership and hands-on control support."
+    ],
+    [
+      "reconciliation-review-process",
+      "A reconciliation review process that preserves accountability",
+      "Controls",
+      "A disciplined workflow for preparation, evidence, review, and authorized signoff."
+    ],
+    [
+      "finance-process-documentation",
+      "Finance process documentation that teams can use",
+      "Operations",
+      "A practical method for documenting finance work without turning procedures into shelfware."
+    ]
+  ],
+  "clusters": {
+    "Close management": [
+      "close calendar design",
+      "close owner map",
+      "evidence readiness",
+      "close exception queue",
+      "close review controls"
+    ],
+    "Reporting operations": [
+      "reporting pack flow",
+      "variance note quality",
+      "management report calendar",
+      "metric ownership map",
+      "report distribution controls"
+    ],
+    "Reconciliation controls": [
+      "account reconciliation map",
+      "supporting evidence review",
+      "exception aging view",
+      "review signoff trail",
+      "balance sheet workflow"
+    ],
+    "Finance operations": [
+      "payables control map",
+      "receivables worklist",
+      "cash schedule support",
+      "vendor master review",
+      "finance procedure quality"
+    ]
+  },
+  "source": "https://www.sec.gov/resources-small-businesses",
+  "bookingUrl": "https://go.oncehub.com/StealthAgentsTeam?brdr=1pxd8d8d8&dt=&em=1&Si=1",
+  "research": [
+    {
+      "slug": "close-calendar-design",
+      "title": "Close calendar design research brief",
+      "cluster": "Close management",
+      "topic": "close calendar design",
+      "publishedAt": "2026-09-02",
+      "sourceCount": 11,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for close calendar design.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make close calendar design easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "close-owner-map",
+      "title": "Close owner map research brief",
+      "cluster": "Close management",
+      "topic": "close owner map",
+      "publishedAt": "2026-09-03",
+      "sourceCount": 12,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for close owner map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make close owner map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "evidence-readiness",
+      "title": "Evidence readiness research brief",
+      "cluster": "Close management",
+      "topic": "evidence readiness",
+      "publishedAt": "2026-09-04",
+      "sourceCount": 13,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for evidence readiness.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make evidence readiness easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "close-exception-queue",
+      "title": "Close exception queue research brief",
+      "cluster": "Close management",
+      "topic": "close exception queue",
+      "publishedAt": "2026-09-05",
+      "sourceCount": 14,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for close exception queue.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make close exception queue easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "close-review-controls",
+      "title": "Close review controls research brief",
+      "cluster": "Close management",
+      "topic": "close review controls",
+      "publishedAt": "2026-09-06",
+      "sourceCount": 15,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for close review controls.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make close review controls easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "reporting-pack-flow",
+      "title": "Reporting pack flow research brief",
+      "cluster": "Reporting operations",
+      "topic": "reporting pack flow",
+      "publishedAt": "2026-09-07",
+      "sourceCount": 10,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for reporting pack flow.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make reporting pack flow easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "variance-note-quality",
+      "title": "Variance note quality research brief",
+      "cluster": "Reporting operations",
+      "topic": "variance note quality",
+      "publishedAt": "2026-09-08",
+      "sourceCount": 11,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for variance note quality.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make variance note quality easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "management-report-calendar",
+      "title": "Management report calendar research brief",
+      "cluster": "Reporting operations",
+      "topic": "management report calendar",
+      "publishedAt": "2026-09-09",
+      "sourceCount": 12,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for management report calendar.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make management report calendar easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "metric-ownership-map",
+      "title": "Metric ownership map research brief",
+      "cluster": "Reporting operations",
+      "topic": "metric ownership map",
+      "publishedAt": "2026-09-10",
+      "sourceCount": 13,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for metric ownership map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make metric ownership map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "report-distribution-controls",
+      "title": "Report distribution controls research brief",
+      "cluster": "Reporting operations",
+      "topic": "report distribution controls",
+      "publishedAt": "2026-09-11",
+      "sourceCount": 14,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for report distribution controls.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make report distribution controls easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "account-reconciliation-map",
+      "title": "Account reconciliation map research brief",
+      "cluster": "Reconciliation controls",
+      "topic": "account reconciliation map",
+      "publishedAt": "2026-09-12",
+      "sourceCount": 15,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for account reconciliation map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make account reconciliation map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "supporting-evidence-review",
+      "title": "Supporting evidence review research brief",
+      "cluster": "Reconciliation controls",
+      "topic": "supporting evidence review",
+      "publishedAt": "2026-09-13",
+      "sourceCount": 10,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for supporting evidence review.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make supporting evidence review easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "exception-aging-view",
+      "title": "Exception aging view research brief",
+      "cluster": "Reconciliation controls",
+      "topic": "exception aging view",
+      "publishedAt": "2026-09-14",
+      "sourceCount": 11,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for exception aging view.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make exception aging view easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "review-signoff-trail",
+      "title": "Review signoff trail research brief",
+      "cluster": "Reconciliation controls",
+      "topic": "review signoff trail",
+      "publishedAt": "2026-09-15",
+      "sourceCount": 12,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for review signoff trail.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make review signoff trail easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "balance-sheet-workflow",
+      "title": "Balance sheet workflow research brief",
+      "cluster": "Reconciliation controls",
+      "topic": "balance sheet workflow",
+      "publishedAt": "2026-09-16",
+      "sourceCount": 13,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for balance sheet workflow.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "13 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make balance sheet workflow easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "payables-control-map",
+      "title": "Payables control map research brief",
+      "cluster": "Finance operations",
+      "topic": "payables control map",
+      "publishedAt": "2026-09-17",
+      "sourceCount": 14,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for payables control map.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "14 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make payables control map easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "receivables-worklist",
+      "title": "Receivables worklist research brief",
+      "cluster": "Finance operations",
+      "topic": "receivables worklist",
+      "publishedAt": "2026-09-18",
+      "sourceCount": 15,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for receivables worklist.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "15 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make receivables worklist easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "cash-schedule-support",
+      "title": "Cash schedule support research brief",
+      "cluster": "Finance operations",
+      "topic": "cash schedule support",
+      "publishedAt": "2026-09-19",
+      "sourceCount": 10,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for cash schedule support.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "10 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make cash schedule support easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "vendor-master-review",
+      "title": "Vendor master review research brief",
+      "cluster": "Finance operations",
+      "topic": "vendor master review",
+      "publishedAt": "2026-09-20",
+      "sourceCount": 11,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for vendor master review.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "11 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make vendor master review easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    },
+    {
+      "slug": "finance-procedure-quality",
+      "title": "Finance procedure quality research brief",
+      "cluster": "Finance operations",
+      "topic": "finance procedure quality",
+      "publishedAt": "2026-09-21",
+      "sourceCount": 12,
+      "excerpt": "A transparent close operations brief that maps five observable workflow indicators for finance procedure quality.",
+      "keyStats": [
+        "5 workflow checkpoints mapped",
+        "4 operating questions answered",
+        "12 primary references reviewed"
+      ],
+      "sections": [
+        [
+          "What this brief measures",
+          "The Outsourced Controller reviewed the visible control points that make finance procedure quality easier to inspect. The count describes the framework on this page, not an industry-wide performance claim."
+        ],
+        [
+          "The five-point observation set",
+          "The review looks at ownership, input readiness, exception visibility, decision routing, and completion evidence. Each point can be checked directly in a working process without relying on a promised outcome."
+        ],
+        [
+          "How teams can use the findings",
+          "Use the five points as a discussion guide during a weekly workflow review. Record what is present, what is missing, and which qualified owner must make the next decision."
+        ],
+        [
+          "Method and limits",
+          "This is editorial workflow research based on a documented five-point rubric and public guidance. It is not a clinical, legal, tax, audit, lending, fiduciary, or financial conclusion."
+        ]
+      ]
+    }
+  ],
+  "legal": {
+    "privacy": "We collect information you choose to submit through our contact form. We use it to respond to your request and operate the consultation workflow. We do not publish submitted information. Infrastructure providers may process data needed to deliver the site and booking experience.",
+    "terms": "This website provides information about administrative support services for founders, finance leaders, and growing operating companies. Content is general information and is not professional advice. Service scope, responsibilities, and commercial terms are discussed privately before any engagement.",
+    "accessibility": "We aim to provide a clear, keyboard-friendly, responsive experience. If you encounter a barrier, email our team so we can help and improve the page."
+  }
+}

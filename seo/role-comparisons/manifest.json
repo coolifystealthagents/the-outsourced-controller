@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "preferred": "fractional_vs_va",
+  "launch": "fractional-cfo-vs-controller-va",
+  "status": "local_verified"
+}
