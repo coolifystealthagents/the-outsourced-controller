@@ -1,0 +1,7 @@
+.article-card{overflow:hidden}
+.article-card img{width:calc(100% + 52px);max-width:none;height:auto;margin:-26px -26px 20px;display:block}
+.article-card h3{font:600 1.35rem/1.2 var(--display);margin:.5em 0}
+.article-thumb{width:100%;height:auto;border-radius:var(--radius);margin:28px 0 8px}
+.article-byline{font-size:.9rem;color:color-mix(in srgb,var(--ink) 72%,transparent)}
+.article-note{border-left:3px solid var(--metal);padding:14px 18px;background:var(--paper)}
+.library-heading{margin-top:72px!important}

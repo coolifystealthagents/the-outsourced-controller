@@ -1,0 +1,102 @@
+{
+  "site": "TheOutsourcedController",
+  "domain": "theoutsourcedcontroller.com",
+  "repository": "coolifystealthagents/the-outsourced-controller",
+  "branch": "main",
+  "publicationDate": "2026-10-12",
+  "visibleDate": "October 12, 2026",
+  "blog": [
+    {
+      "slug": "month-end-close-command-center",
+      "title": "Month-End Close Command Center",
+      "thumbnail": "public/thumbnails/october-12/month-end-close-command-center.svg"
+    },
+    {
+      "slug": "balance-sheet-reconciliation-review-ladder",
+      "title": "Balance Sheet Reconciliation Review Ladder",
+      "thumbnail": "public/thumbnails/october-12/balance-sheet-reconciliation-review-ladder.svg"
+    },
+    {
+      "slug": "cash-flow-forecast-input-governance",
+      "title": "Cash Flow Forecast Input Governance",
+      "thumbnail": "public/thumbnails/october-12/cash-flow-forecast-input-governance.svg"
+    },
+    {
+      "slug": "revenue-cutoff-evidence-checklist",
+      "title": "Revenue Cutoff Evidence Checklist",
+      "thumbnail": "public/thumbnails/october-12/revenue-cutoff-evidence-checklist.svg"
+    },
+    {
+      "slug": "accounts-payable-accrual-workflow",
+      "title": "Accounts Payable Accrual Workflow",
+      "thumbnail": "public/thumbnails/october-12/accounts-payable-accrual-workflow.svg"
+    },
+    {
+      "slug": "management-reporting-variance-bridge",
+      "title": "Management Reporting Variance Bridge",
+      "thumbnail": "public/thumbnails/october-12/management-reporting-variance-bridge.svg"
+    },
+    {
+      "slug": "chart-of-accounts-change-control",
+      "title": "Chart of Accounts Change Control",
+      "thumbnail": "public/thumbnails/october-12/chart-of-accounts-change-control.svg"
+    },
+    {
+      "slug": "controller-review-of-journal-entries",
+      "title": "Controller Review of Journal Entries",
+      "thumbnail": "public/thumbnails/october-12/controller-review-of-journal-entries.svg"
+    },
+    {
+      "slug": "financial-close-exception-escalation",
+      "title": "Financial Close Exception Escalation",
+      "thumbnail": "public/thumbnails/october-12/financial-close-exception-escalation.svg"
+    },
+    {
+      "slug": "audit-request-list-coordination",
+      "title": "Audit Request List Coordination",
+      "thumbnail": "public/thumbnails/october-12/audit-request-list-coordination.svg"
+    },
+    {
+      "slug": "segregation-of-duties-access-review",
+      "title": "Segregation of Duties Access Review",
+      "thumbnail": "public/thumbnails/october-12/segregation-of-duties-access-review.svg"
+    },
+    {
+      "slug": "controller-to-leadership-decision-packet",
+      "title": "Controller to Leadership Decision Packet",
+      "thumbnail": "public/thumbnails/october-12/controller-to-leadership-decision-packet.svg"
+    }
+  ],
+  "research": [
+    {
+      "slug": "close-task-completion-evidence-study",
+      "title": "Close Task Completion Evidence Study",
+      "thumbnail": "public/thumbnails/october-12/close-task-completion-evidence-study.svg",
+      "sources": 10
+    },
+    {
+      "slug": "balance-sheet-reconciliation-quality-audit",
+      "title": "Balance Sheet Reconciliation Quality Audit",
+      "thumbnail": "public/thumbnails/october-12/balance-sheet-reconciliation-quality-audit.svg",
+      "sources": 10
+    },
+    {
+      "slug": "manual-journal-entry-control-research",
+      "title": "Manual Journal Entry Control Research",
+      "thumbnail": "public/thumbnails/october-12/manual-journal-entry-control-research.svg",
+      "sources": 10
+    },
+    {
+      "slug": "financial-reporting-variance-explanation-method",
+      "title": "Financial Reporting Variance Explanation Method",
+      "thumbnail": "public/thumbnails/october-12/financial-reporting-variance-explanation-method.svg",
+      "sources": 10
+    },
+    {
+      "slug": "finance-access-conflict-review-framework",
+      "title": "Finance Access Conflict Review Framework",
+      "thumbnail": "public/thumbnails/october-12/finance-access-conflict-review-framework.svg",
+      "sources": 10
+    }
+  ]
+}
