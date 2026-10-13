@@ -1,0 +1,176 @@
+{
+  "site": "TheOutsourcedController",
+  "domain": "theoutsourcedcontroller.com",
+  "canonicalOrigin": "https://theoutsourcedcontroller.com",
+  "repository": "coolifystealthagents/the-outsourced-controller",
+  "branch": "main",
+  "baseSha": "45f5a0959026654bcd71aa8929a63408a8fb456a",
+  "publicationDate": "2026-10-13",
+  "visibleDate": "October 13, 2026",
+  "counts": {
+    "blog": 12,
+    "research": 5,
+    "total": 17,
+    "thumbnails": 17
+  },
+  "items": [
+    {
+      "section": "Blog",
+      "slug": "intercompany-balance-confirmation-workflow",
+      "title": "Confirm Intercompany Balances Before Consolidation",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/intercompany-balance-confirmation-workflow.svg",
+      "route": "/blog/intercompany-balance-confirmation-workflow"
+    },
+    {
+      "section": "Blog",
+      "slug": "prepaid-expense-amortization-evidence",
+      "title": "Preserve Evidence for Prepaid Expense Amortization",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/prepaid-expense-amortization-evidence.svg",
+      "route": "/blog/prepaid-expense-amortization-evidence"
+    },
+    {
+      "section": "Blog",
+      "slug": "vendor-master-change-review",
+      "title": "Review Vendor Master Changes Before Payment",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/vendor-master-change-review.svg",
+      "route": "/blog/vendor-master-change-review"
+    },
+    {
+      "section": "Blog",
+      "slug": "close-calendar-dependency-control",
+      "title": "Control Close Calendar Dependencies With Named Owners",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/close-calendar-dependency-control.svg",
+      "route": "/blog/close-calendar-dependency-control"
+    },
+    {
+      "section": "Blog",
+      "slug": "recurring-journal-entry-renewal",
+      "title": "Renew Recurring Journal Entries With Current Support",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/recurring-journal-entry-renewal.svg",
+      "route": "/blog/recurring-journal-entry-renewal"
+    },
+    {
+      "section": "Blog",
+      "slug": "financial-statement-version-release",
+      "title": "Release Financial Statement Versions With Clear Lineage",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/financial-statement-version-release.svg",
+      "route": "/blog/financial-statement-version-release"
+    },
+    {
+      "section": "Blog",
+      "slug": "bank-reconciliation-stale-item-escalation",
+      "title": "Escalate Stale Bank Reconciliation Items by Cause",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/bank-reconciliation-stale-item-escalation.svg",
+      "route": "/blog/bank-reconciliation-stale-item-escalation"
+    },
+    {
+      "section": "Blog",
+      "slug": "fixed-asset-disposal-documentation",
+      "title": "Document Fixed Asset Disposals With Custody Evidence",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/fixed-asset-disposal-documentation.svg",
+      "route": "/blog/fixed-asset-disposal-documentation"
+    },
+    {
+      "section": "Blog",
+      "slug": "payroll-clearing-account-reconciliation",
+      "title": "Reconcile Payroll Clearing Accounts to Source Events",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/payroll-clearing-account-reconciliation.svg",
+      "route": "/blog/payroll-clearing-account-reconciliation"
+    },
+    {
+      "section": "Blog",
+      "slug": "deferred-revenue-schedule-handoff",
+      "title": "Hand Off Deferred Revenue Schedules With Version Control",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/deferred-revenue-schedule-handoff.svg",
+      "route": "/blog/deferred-revenue-schedule-handoff"
+    },
+    {
+      "section": "Blog",
+      "slug": "board-report-data-lineage",
+      "title": "Trace Board Report Metrics to Approved Sources",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/board-report-data-lineage.svg",
+      "route": "/blog/board-report-data-lineage"
+    },
+    {
+      "section": "Blog",
+      "slug": "audit-adjustment-posting-control",
+      "title": "Post Audit Adjustments Through a Controlled Workflow",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-blog.ts",
+      "thumbnailPath": "public/thumbnails/october-13/audit-adjustment-posting-control.svg",
+      "route": "/blog/audit-adjustment-posting-control"
+    },
+    {
+      "section": "Research",
+      "slug": "close-dependency-completion-reliability",
+      "title": "Close Dependency Completion Reliability",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/close-dependency-completion-reliability.svg",
+      "route": "/research/close-dependency-completion-reliability",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "journal-entry-support-consistency",
+      "title": "Journal Entry Support Consistency",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/journal-entry-support-consistency.svg",
+      "route": "/research/journal-entry-support-consistency",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "reconciliation-review-evidence-completeness",
+      "title": "Reconciliation Review Evidence Completeness",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/reconciliation-review-evidence-completeness.svg",
+      "route": "/research/reconciliation-review-evidence-completeness",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "financial-report-version-lineage",
+      "title": "Financial Report Version Lineage",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/financial-report-version-lineage.svg",
+      "route": "/research/financial-report-version-lineage",
+      "sources": 10
+    },
+    {
+      "section": "Research",
+      "slug": "vendor-master-change-verification",
+      "title": "Vendor Master Change Verification",
+      "publicationDate": "2026-10-13",
+      "sourcePath": "lib/october13-research.ts",
+      "thumbnailPath": "public/thumbnails/october-13/vendor-master-change-verification.svg",
+      "route": "/research/vendor-master-change-verification",
+      "sources": 10
+    }
+  ]
+}
