@@ -1,4 +1,4 @@
-export type October13Blog={slug:string;title:string;category:string;excerpt:string;publishedAt:string;visibleDate:string;thumbnail:string;readingMinutes:number;sections:{heading:string;paragraphs:string[]}[];checklist:string[];related:string[]};
+export type October13Blog={slug:string;title:string;category:string;excerpt:string;publishedAt:string;visibleDate:string;thumbnail:string;readingMinutes:number;sections:{heading:string;paragraphs:string[]}[];checklist:string[];related:string[];sources?:{label:string;url:string}[]};
 export const october13Blogs:October13Blog[]=[
   {
     "slug": "intercompany-balance-confirmation-workflow",

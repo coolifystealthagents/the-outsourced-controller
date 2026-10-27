@@ -73,7 +73,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Close operations",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/month-end-close-checklist-versioning-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/month-end-close-checklist-versioning-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "bank-reconciliation-exception-aging-oct27",
@@ -147,7 +161,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Reconciliation",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/bank-reconciliation-exception-aging-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/bank-reconciliation-exception-aging-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "accrued-expense-support-packet-oct27",
@@ -221,7 +249,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Accruals",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/accrued-expense-support-packet-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/accrued-expense-support-packet-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "U.S. Securities and Exchange Commission, Staff Accounting Bulletins",
+      "url": "https://www.sec.gov/interps/account/sab.htm"
+    }
+  ]
 },
 {
   "slug": "revenue-cutoff-request-log-oct27",
@@ -295,7 +337,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Revenue support",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/revenue-cutoff-request-log-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/revenue-cutoff-request-log-oct27.svg",
+  "sources": [
+    {
+      "label": "U.S. Securities and Exchange Commission, Staff Accounting Bulletins",
+      "url": "https://www.sec.gov/interps/account/sab.htm"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    }
+  ]
 },
 {
   "slug": "prepaid-amortization-schedule-review-oct27",
@@ -369,7 +425,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Accruals",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/prepaid-amortization-schedule-review-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/prepaid-amortization-schedule-review-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "U.S. Securities and Exchange Commission, Staff Accounting Bulletins",
+      "url": "https://www.sec.gov/interps/account/sab.htm"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "fixed-asset-rollforward-tieout-oct27",
@@ -443,7 +513,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Fixed assets",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/fixed-asset-rollforward-tieout-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/fixed-asset-rollforward-tieout-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "intercompany-confirmation-response-log-oct27",
@@ -517,7 +601,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Intercompany",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/intercompany-confirmation-response-log-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/intercompany-confirmation-response-log-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "U.S. Securities and Exchange Commission, Staff Accounting Bulletins",
+      "url": "https://www.sec.gov/interps/account/sab.htm"
+    }
+  ]
 },
 {
   "slug": "ap-aging-review-cadence-oct27",
@@ -591,7 +689,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Accounts payable",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/ap-aging-review-cadence-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/ap-aging-review-cadence-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    }
+  ]
 },
 {
   "slug": "journal-entry-documentation-standard-oct27",
@@ -665,7 +777,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Journal entries",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/journal-entry-documentation-standard-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/journal-entry-documentation-standard-oct27.svg",
+  "sources": [
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "flux-analysis-variance-commentary-oct27",
@@ -739,7 +865,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Close operations",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/flux-analysis-variance-commentary-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/flux-analysis-variance-commentary-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 },
 {
   "slug": "close-handoff-during-controller-leave-oct27",
@@ -813,7 +953,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Close operations",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/close-handoff-during-controller-leave-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/close-handoff-during-controller-leave-oct27.svg",
+  "sources": [
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "NIST Privacy Framework",
+      "url": "https://www.nist.gov/privacy-framework"
+    }
+  ]
 },
 {
   "slug": "audit-pbc-request-tracker-oct27",
@@ -887,7 +1041,21 @@ export const october27Blogs: October13Blog[] = [
   "category": "Audit readiness",
   "publishedAt": "2026-10-27",
   "visibleDate": "October 27, 2026",
-  "thumbnail": "/thumbnails/october-27/audit-pbc-request-tracker-oct27.svg"
+  "thumbnail": "/thumbnails/october-27/audit-pbc-request-tracker-oct27.svg",
+  "sources": [
+    {
+      "label": "PCAOB Auditing Standard 2201, An Audit of Internal Control Over Financial Reporting",
+      "url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201"
+    },
+    {
+      "label": "GAO Standards for Internal Control in the Federal Government",
+      "url": "https://www.gao.gov/products/gao-14-704g"
+    },
+    {
+      "label": "AICPA and CIMA",
+      "url": "https://www.aicpa-cima.com/"
+    }
+  ]
 }
 ];
 export const october27BlogBySlug = new Map(october27Blogs.map((post) => [post.slug, post]));
