@@ -1056,6 +1056,680 @@ export const october27Blogs: October13Blog[] = [
       "url": "https://www.aicpa-cima.com/"
     }
   ]
-}
+},
+
+  {
+    "slug": "controller-month-end-checklist-version-oct28",
+    "title": "Version the Month-End Close Checklist",
+    "category": "Close operations",
+    "excerpt": "A checklist versioning routine that records the owner, the change, and the effective period.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-month-end-checklist-version-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Version the Month-End Close Checklist is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because a step is skipped and no one can show which version was required."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the checklist version and change log. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: a step is skipped and no one can show which version was required. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns month-end checklist version. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A close checklist changes mid-quarter. The version log records the change, the approver, and the first period it applies to. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-close-calendar-ownership-oct28",
+    "title": "Close Calendar Ownership",
+    "category": "Close operations",
+    "excerpt": "A close calendar that names each task, owner, dependency, and completion evidence.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-close-calendar-ownership-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Close Calendar Ownership is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because two teams wait on each other and the close slips without a named blocker."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the close calendar and task log. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: two teams wait on each other and the close slips without a named blocker. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns close calendar ownership. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A bank reconciliation waits on a statement. The calendar shows the dependency and the owner who will clear it. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-bank-rec-exception-oct28",
+    "title": "Bank Reconciliation Exception Aging",
+    "category": "Cash operations",
+    "excerpt": "An exception routine for unreconciled bank items that records the age, the source, and the owner.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-bank-rec-exception-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Bank Reconciliation Exception Aging is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because an old item rolls forward every month without a decision."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the reconciliation exception report. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: an old item rolls forward every month without a decision. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns bank reconciliation exception. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A deposit is unmatched for 45 days. The report shows the source, the owner, and the next action. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-ap-duplicate-invoice-oct28",
+    "title": "Duplicate Invoice Detection",
+    "category": "Accounts payable",
+    "excerpt": "A duplicate check that compares the vendor, amount, invoice number, and service period.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-ap-duplicate-invoice-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Duplicate Invoice Detection is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because the same invoice is paid twice under a new number."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the AP register and exception log. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: the same invoice is paid twice under a new number. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns duplicate invoice detection. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A vendor resubmits an invoice with a new number. The check matches the amount and period before release. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-ar-aging-review-oct28",
+    "title": "AR Aging Review",
+    "category": "Accounts receivable",
+    "excerpt": "An aging review that separates disputed, collectible, and uncollectible balances.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-ar-aging-review-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "AR Aging Review is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because the aging total is reported without the dispute status."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the aging report and collection note. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: the aging total is reported without the dispute status. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns AR aging review. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A customer balance is aged 90 days but is in dispute. The review records the dispute owner and next step. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-journal-entry-approval-oct28",
+    "title": "Journal Entry Approval",
+    "category": "Close controls",
+    "excerpt": "An approval routine for manual journal entries that records the preparer, reviewer, support, and posting.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-journal-entry-approval-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Journal Entry Approval is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because a manual entry posts without a reviewer or supporting calculation."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the JE log and support. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: a manual entry posts without a reviewer or supporting calculation. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns journal entry approval. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A revenue adjustment is prepared. The log shows the support, the reviewer, and the posting date. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-intercompany-reconciliation-oct28",
+    "title": "Intercompany Reconciliation",
+    "category": "Close controls",
+    "excerpt": "A reconciliation that matches intercompany balances, currency, and elimination entries.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-intercompany-reconciliation-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Intercompany Reconciliation is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because one entity records a different amount and the elimination does not balance."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the intercompany matrix. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: one entity records a different amount and the elimination does not balance. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns intercompany reconciliation. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A management fee is recorded in two entities. The matrix shows the difference and the owner who corrects it. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-fixed-asset-rollforward-oct28",
+    "title": "Fixed Asset Rollforward",
+    "category": "Fixed assets",
+    "excerpt": "A rollforward that records additions, disposals, depreciation, and the asset register tie-out.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-fixed-asset-rollforward-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Fixed Asset Rollforward is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because an asset is disposed but depreciation continues."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the asset register and rollforward. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: an asset is disposed but depreciation continues. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns fixed asset rollforward. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A laptop is retired in March. The rollforward records the disposal and stops depreciation. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-revenue-recognition-checklist-oct28",
+    "title": "Revenue Recognition Checklist",
+    "category": "Revenue",
+    "excerpt": "A checklist that records the contract, the performance obligation, the timing, and the approval.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-revenue-recognition-checklist-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Revenue Recognition Checklist is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because revenue is recognized before the obligation is satisfied."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the revenue schedule and contract. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: revenue is recognized before the obligation is satisfied. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns revenue recognition checklist. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A subscription starts in April. The checklist records the term and the recognition schedule. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-cash-forecast-variance-oct28",
+    "title": "Cash Forecast Variance",
+    "category": "Cash operations",
+    "excerpt": "A variance review that compares forecast, actual, timing, and the explanation.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-cash-forecast-variance-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Cash Forecast Variance is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because the forecast is off every month and no one records the timing difference."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the forecast and actual cash report. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: the forecast is off every month and no one records the timing difference. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns cash forecast variance. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A large collection arrives a week late. The review records the timing and the customer. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-audit-pbc-tracker-oct28",
+    "title": "Audit PBC Tracker",
+    "category": "Audit readiness",
+    "excerpt": "A PBC tracker that records the request, the owner, the due date, and the evidence delivered.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-audit-pbc-tracker-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Audit PBC Tracker is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because the auditor repeats a request because the file was never delivered."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the PBC list and delivery log. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: the auditor repeats a request because the file was never delivered. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns audit PBC tracker. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "An auditor requests a contract. The tracker shows the owner, the upload date, and the confirmation. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  },
+  {
+    "slug": "controller-dashboard-definitions-oct28",
+    "title": "Controller Dashboard Definitions",
+    "category": "Reporting",
+    "excerpt": "A definition set for controller metrics that names the numerator, denominator, source, and owner.",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-dashboard-definitions-oct28.jpg",
+    "readingMinutes": 8,
+    "sections": [
+      {
+        "heading": "Why this control matters",
+        "paragraphs": [
+          "Controller Dashboard Definitions is a record, not a reminder to be careful. It shows what the team checked, who owned the next step, and what remained open before the close moved forward.",
+          "The control matters because two reports use the same label with different calculations."
+        ]
+      },
+      {
+        "heading": "Open the governing record",
+        "paragraphs": [
+          "Start with the metric dictionary. Record the source, the period, the owner, and the evidence. The assistant prepares and checks; the controller keeps the judgment that changes a balance, a posting, or a report."
+        ]
+      },
+      {
+        "heading": "Where the handoff breaks",
+        "paragraphs": [
+          "The predictable failure is this: two reports use the same label with different calculations. Use one status set: ready, exception, approved, and closed.",
+          "Review the example with the person who owns controller dashboard definitions. If they cannot explain the close condition from the record alone, the control is not finished."
+        ]
+      },
+      {
+        "heading": "A worked close example",
+        "paragraphs": [
+          "A close-cycle metric uses calendar days in one report and business days in another. The dictionary makes the definition explicit. The point is not the number. It is that the record shows the original state, the change, the reviewer, and the confirmation."
+        ]
+      },
+      {
+        "heading": "Weekly review and stop rule",
+        "paragraphs": [
+          "Sample one ordinary item, one exception, and one corrected item. Count errors by rule rather than by person. When the same gap appears twice, fix the form or the approval rule before coaching."
+        ]
+      }
+    ],
+    "checklist": [
+      "Name the owner and the evidence.",
+      "Keep the source beside the entry.",
+      "Review exceptions on a defined cadence."
+    ],
+    "related": [],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      }
+    ]
+  }
+
 ];
 export const october27BlogBySlug = new Map(october27Blogs.map((post) => [post.slug, post]));

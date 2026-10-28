@@ -555,6 +555,378 @@ export const october27Research: October13Research[] = [
       "url": "https://www.aicpa-cima.com/"
     }
   ]
-}
+},
+
+  {
+    "slug": "controller-close-checklist-drift-study-oct28",
+    "title": "Close Checklist Drift",
+    "category": "Controller Research",
+    "excerpt": "How often does the close checklist change, and is the change logged?",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-close-checklist-drift-study-oct28.jpg",
+    "readingMinutes": 8,
+    "thesis": "How often does the close checklist change, and is the change logged?",
+    "questions": [
+      "How often does the close checklist change, and is the change logged?"
+    ],
+    "sections": [
+      {
+        "heading": "Question and scope",
+        "paragraphs": [
+          "How often does the close checklist change, and is the change logged?",
+          "The scope is the close record and the events the team can observe in a defined window. It does not estimate an industry rate."
+        ]
+      },
+      {
+        "heading": "Population and unit",
+        "paragraphs": [
+          "Close cycles in a defined year, sampled by controller and period.",
+          "The unit is one reconciliation, entry, invoice, or forecast line."
+        ]
+      },
+      {
+        "heading": "Definitions and measures",
+        "paragraphs": [
+          "Changes per cycle, approval evidence, effective period, and skipped steps.",
+          "Define the window and evidence standard before the sample begins."
+        ]
+      },
+      {
+        "heading": "Where the record fails",
+        "paragraphs": [
+          "Unlogged changes cluster around staffing gaps and new reporting requests.",
+          "A failure needs a reason code, an owner, and a recheck date."
+        ]
+      },
+      {
+        "heading": "Worked example",
+        "paragraphs": [
+          "A checklist without a version cannot prove which steps were required.",
+          "The numbers are illustrative. The value is the stage split."
+        ]
+      },
+      {
+        "heading": "Evidence and limits",
+        "paragraphs": [
+          "Public guidance can frame the questions but cannot prove a local result. Record the sample frame and unavailable fields."
+        ]
+      },
+      {
+        "heading": "Practical use",
+        "paragraphs": [
+          "Change one controlled element at a time and recheck the same measure after two cycles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      },
+      {
+        "label": "COSO internal control framework",
+        "url": "https://www.coso.org/"
+      }
+    ],
+    "related": []
+  },
+  {
+    "slug": "controller-bank-rec-exception-study-oct28",
+    "title": "Bank Reconciliation Exception Aging",
+    "category": "Controller Research",
+    "excerpt": "How old are unreconciled items, and where do they accumulate?",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-bank-rec-exception-study-oct28.jpg",
+    "readingMinutes": 8,
+    "thesis": "How old are unreconciled items, and where do they accumulate?",
+    "questions": [
+      "How old are unreconciled items, and where do they accumulate?"
+    ],
+    "sections": [
+      {
+        "heading": "Question and scope",
+        "paragraphs": [
+          "How old are unreconciled items, and where do they accumulate?",
+          "The scope is the close record and the events the team can observe in a defined window. It does not estimate an industry rate."
+        ]
+      },
+      {
+        "heading": "Population and unit",
+        "paragraphs": [
+          "Bank reconciliations in a defined quarter, sampled by account.",
+          "The unit is one reconciliation, entry, invoice, or forecast line."
+        ]
+      },
+      {
+        "heading": "Definitions and measures",
+        "paragraphs": [
+          "Exception age, source, owner, and repeat items.",
+          "Define the window and evidence standard before the sample begins."
+        ]
+      },
+      {
+        "heading": "Where the record fails",
+        "paragraphs": [
+          "Old items cluster around deposits, processor settlements, and stale checks.",
+          "A failure needs a reason code, an owner, and a recheck date."
+        ]
+      },
+      {
+        "heading": "Worked example",
+        "paragraphs": [
+          "An aged item without an owner is not a reconciliation.",
+          "The numbers are illustrative. The value is the stage split."
+        ]
+      },
+      {
+        "heading": "Evidence and limits",
+        "paragraphs": [
+          "Public guidance can frame the questions but cannot prove a local result. Record the sample frame and unavailable fields."
+        ]
+      },
+      {
+        "heading": "Practical use",
+        "paragraphs": [
+          "Change one controlled element at a time and recheck the same measure after two cycles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      },
+      {
+        "label": "COSO internal control framework",
+        "url": "https://www.coso.org/"
+      }
+    ],
+    "related": []
+  },
+  {
+    "slug": "controller-duplicate-invoice-study-oct28",
+    "title": "Duplicate Invoice Rate",
+    "category": "Controller Research",
+    "excerpt": "How often does a duplicate invoice reach payment?",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-duplicate-invoice-study-oct28.jpg",
+    "readingMinutes": 8,
+    "thesis": "How often does a duplicate invoice reach payment?",
+    "questions": [
+      "How often does a duplicate invoice reach payment?"
+    ],
+    "sections": [
+      {
+        "heading": "Question and scope",
+        "paragraphs": [
+          "How often does a duplicate invoice reach payment?",
+          "The scope is the close record and the events the team can observe in a defined window. It does not estimate an industry rate."
+        ]
+      },
+      {
+        "heading": "Population and unit",
+        "paragraphs": [
+          "AP invoices in a defined quarter, sampled by vendor and amount.",
+          "The unit is one reconciliation, entry, invoice, or forecast line."
+        ]
+      },
+      {
+        "heading": "Definitions and measures",
+        "paragraphs": [
+          "Duplicate rate, detection point, recovery, and vendor pattern.",
+          "Define the window and evidence standard before the sample begins."
+        ]
+      },
+      {
+        "heading": "Where the record fails",
+        "paragraphs": [
+          "Duplicates cluster around recurring services and invoices without a purchase order.",
+          "A failure needs a reason code, an owner, and a recheck date."
+        ]
+      },
+      {
+        "heading": "Worked example",
+        "paragraphs": [
+          "A match on amount alone creates false positives; compare the period and service.",
+          "The numbers are illustrative. The value is the stage split."
+        ]
+      },
+      {
+        "heading": "Evidence and limits",
+        "paragraphs": [
+          "Public guidance can frame the questions but cannot prove a local result. Record the sample frame and unavailable fields."
+        ]
+      },
+      {
+        "heading": "Practical use",
+        "paragraphs": [
+          "Change one controlled element at a time and recheck the same measure after two cycles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      },
+      {
+        "label": "COSO internal control framework",
+        "url": "https://www.coso.org/"
+      }
+    ],
+    "related": []
+  },
+  {
+    "slug": "controller-journal-approval-lag-study-oct28",
+    "title": "Journal Entry Approval Lag",
+    "category": "Controller Research",
+    "excerpt": "How long does a manual journal entry wait for review?",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-journal-approval-lag-study-oct28.jpg",
+    "readingMinutes": 8,
+    "thesis": "How long does a manual journal entry wait for review?",
+    "questions": [
+      "How long does a manual journal entry wait for review?"
+    ],
+    "sections": [
+      {
+        "heading": "Question and scope",
+        "paragraphs": [
+          "How long does a manual journal entry wait for review?",
+          "The scope is the close record and the events the team can observe in a defined window. It does not estimate an industry rate."
+        ]
+      },
+      {
+        "heading": "Population and unit",
+        "paragraphs": [
+          "Manual entries in a defined close, sampled by preparer and type.",
+          "The unit is one reconciliation, entry, invoice, or forecast line."
+        ]
+      },
+      {
+        "heading": "Definitions and measures",
+        "paragraphs": [
+          "Approval lag, missing support, posting date, and reversals.",
+          "Define the window and evidence standard before the sample begins."
+        ]
+      },
+      {
+        "heading": "Where the record fails",
+        "paragraphs": [
+          "Lag clusters at period end when reviewers are also closing.",
+          "A failure needs a reason code, an owner, and a recheck date."
+        ]
+      },
+      {
+        "heading": "Worked example",
+        "paragraphs": [
+          "A fast approval without support is not a control.",
+          "The numbers are illustrative. The value is the stage split."
+        ]
+      },
+      {
+        "heading": "Evidence and limits",
+        "paragraphs": [
+          "Public guidance can frame the questions but cannot prove a local result. Record the sample frame and unavailable fields."
+        ]
+      },
+      {
+        "heading": "Practical use",
+        "paragraphs": [
+          "Change one controlled element at a time and recheck the same measure after two cycles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      },
+      {
+        "label": "COSO internal control framework",
+        "url": "https://www.coso.org/"
+      }
+    ],
+    "related": []
+  },
+  {
+    "slug": "controller-cash-forecast-variance-study-oct28",
+    "title": "Cash Forecast Variance",
+    "category": "Controller Research",
+    "excerpt": "Which forecast lines vary most, and what explains the timing?",
+    "publishedAt": "2026-10-28",
+    "visibleDate": "October 28, 2026",
+    "thumbnail": "/thumbnails/october-28/controller-cash-forecast-variance-study-oct28.jpg",
+    "readingMinutes": 8,
+    "thesis": "Which forecast lines vary most, and what explains the timing?",
+    "questions": [
+      "Which forecast lines vary most, and what explains the timing?"
+    ],
+    "sections": [
+      {
+        "heading": "Question and scope",
+        "paragraphs": [
+          "Which forecast lines vary most, and what explains the timing?",
+          "The scope is the close record and the events the team can observe in a defined window. It does not estimate an industry rate."
+        ]
+      },
+      {
+        "heading": "Population and unit",
+        "paragraphs": [
+          "Forecast and actual cash in a defined quarter, sampled by category.",
+          "The unit is one reconciliation, entry, invoice, or forecast line."
+        ]
+      },
+      {
+        "heading": "Definitions and measures",
+        "paragraphs": [
+          "Variance, timing, explanation recorded, and repeat source.",
+          "Define the window and evidence standard before the sample begins."
+        ]
+      },
+      {
+        "heading": "Where the record fails",
+        "paragraphs": [
+          "Collections and payroll timing drive most of the variance.",
+          "A failure needs a reason code, an owner, and a recheck date."
+        ]
+      },
+      {
+        "heading": "Worked example",
+        "paragraphs": [
+          "A variance without the timing explanation is not a forecast improvement.",
+          "The numbers are illustrative. The value is the stage split."
+        ]
+      },
+      {
+        "heading": "Evidence and limits",
+        "paragraphs": [
+          "Public guidance can frame the questions but cannot prove a local result. Record the sample frame and unavailable fields."
+        ]
+      },
+      {
+        "heading": "Practical use",
+        "paragraphs": [
+          "Change one controlled element at a time and recheck the same measure after two cycles."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "AICPA audit and accounting resources",
+        "url": "https://www.aicpa-cima.com/"
+      },
+      {
+        "label": "COSO internal control framework",
+        "url": "https://www.coso.org/"
+      }
+    ],
+    "related": []
+  }
+
 ];
 export const october27ResearchBySlug = new Map(october27Research.map((post) => [post.slug, post]));
