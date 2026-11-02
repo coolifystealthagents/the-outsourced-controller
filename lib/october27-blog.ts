@@ -1731,5 +1731,329 @@ export const october27Blogs: October13Blog[] = [
     ]
   }
 
-];
+,{
+  "slug": "toc02-close-checklist-version",
+  "title": "Close Checklist Version",
+  "excerpt": "A controller operations guide for close checklist version.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Close Checklist Version is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-close-checklist-version.svg",
+  "sources": []
+},{
+  "slug": "toc02-accrual-review",
+  "title": "Accrual Review",
+  "excerpt": "A controller operations guide for accrual review.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Accrual Review is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-accrual-review.svg",
+  "sources": []
+},{
+  "slug": "toc02-bank-reconciliation",
+  "title": "Bank Reconciliation",
+  "excerpt": "A controller operations guide for bank reconciliation.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Bank Reconciliation is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-bank-reconciliation.svg",
+  "sources": []
+},{
+  "slug": "toc02-journal-entry-approval",
+  "title": "Journal Entry Approval",
+  "excerpt": "A controller operations guide for journal entry approval.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Journal Entry Approval is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-journal-entry-approval.svg",
+  "sources": []
+},{
+  "slug": "toc02-variance-analysis",
+  "title": "Variance Analysis",
+  "excerpt": "A controller operations guide for variance analysis.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Variance Analysis is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-variance-analysis.svg",
+  "sources": []
+},{
+  "slug": "toc02-intercompany-reconciliation",
+  "title": "Intercompany Reconciliation",
+  "excerpt": "A controller operations guide for intercompany reconciliation.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Intercompany Reconciliation is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-intercompany-reconciliation.svg",
+  "sources": []
+},{
+  "slug": "toc02-fixed-asset-rollforward",
+  "title": "Fixed Asset Rollforward",
+  "excerpt": "A controller operations guide for fixed asset rollforward.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Fixed Asset Rollforward is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-fixed-asset-rollforward.svg",
+  "sources": []
+},{
+  "slug": "toc02-revenue-recognition-review",
+  "title": "Revenue Recognition Review",
+  "excerpt": "A controller operations guide for revenue recognition review.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Revenue Recognition Review is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-revenue-recognition-review.svg",
+  "sources": []
+},{
+  "slug": "toc02-expense-coding",
+  "title": "Expense Coding",
+  "excerpt": "A controller operations guide for expense coding.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Expense Coding is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-expense-coding.svg",
+  "sources": []
+},{
+  "slug": "toc02-controller-sign-off",
+  "title": "Controller Sign-Off",
+  "excerpt": "A controller operations guide for controller sign-off.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Controller Sign-Off is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-controller-sign-off.svg",
+  "sources": []
+},{
+  "slug": "toc02-board-reporting",
+  "title": "Board Reporting",
+  "excerpt": "A controller operations guide for board reporting.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Board Reporting is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-board-reporting.svg",
+  "sources": []
+},{
+  "slug": "toc02-month-end-handoff",
+  "title": "Month-End Handoff",
+  "excerpt": "A controller operations guide for month-end handoff.",
+  "readingMinutes": 8,
+  "sections": [
+    {
+      "heading": "Why this control matters",
+      "paragraphs": [
+        "For controller operations, Month-End Handoff is a written control.",
+        "It shows the source, owner, and close."
+      ]
+    },
+    {
+      "heading": "Close and review",
+      "paragraphs": [
+        "Record the source, approval, and next action."
+      ]
+    }
+  ],
+  "checklist": [],
+  "related": [],
+  "category": "Controller operations",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-month-end-handoff.svg",
+  "sources": []
+}];
 export const october27BlogBySlug = new Map(october27Blogs.map((post) => [post.slug, post]));

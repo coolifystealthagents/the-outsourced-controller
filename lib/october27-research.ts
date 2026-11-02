@@ -928,5 +928,125 @@ export const october27Research: October13Research[] = [
     "related": []
   }
 
-];
+,{
+  "slug": "toc02-close-cycle-time",
+  "title": "Close Cycle Time",
+  "excerpt": "A bounded controller record review for close cycle time.",
+  "readingMinutes": 8,
+  "thesis": "Close Cycle Time is examined from the documented controller record.",
+  "questions": [
+    "What is the population?",
+    "Where does the wait occur?"
+  ],
+  "sections": [
+    {
+      "heading": "Question and scope",
+      "paragraphs": [
+        "Close Cycle Time is examined from the documented record in a defined window."
+      ]
+    }
+  ],
+  "related": [],
+  "category": "Controller research",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-close-cycle-time.svg",
+  "sources": []
+},{
+  "slug": "toc02-reconciliation-aging",
+  "title": "Reconciliation Aging",
+  "excerpt": "A bounded controller record review for reconciliation aging.",
+  "readingMinutes": 8,
+  "thesis": "Reconciliation Aging is examined from the documented controller record.",
+  "questions": [
+    "What is the population?",
+    "Where does the wait occur?"
+  ],
+  "sections": [
+    {
+      "heading": "Question and scope",
+      "paragraphs": [
+        "Reconciliation Aging is examined from the documented record in a defined window."
+      ]
+    }
+  ],
+  "related": [],
+  "category": "Controller research",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-reconciliation-aging.svg",
+  "sources": []
+},{
+  "slug": "toc02-journal-approval-lag",
+  "title": "Journal Approval Lag",
+  "excerpt": "A bounded controller record review for journal approval lag.",
+  "readingMinutes": 8,
+  "thesis": "Journal Approval Lag is examined from the documented controller record.",
+  "questions": [
+    "What is the population?",
+    "Where does the wait occur?"
+  ],
+  "sections": [
+    {
+      "heading": "Question and scope",
+      "paragraphs": [
+        "Journal Approval Lag is examined from the documented record in a defined window."
+      ]
+    }
+  ],
+  "related": [],
+  "category": "Controller research",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-journal-approval-lag.svg",
+  "sources": []
+},{
+  "slug": "toc02-variance-follow-up",
+  "title": "Variance Follow-Up",
+  "excerpt": "A bounded controller record review for variance follow-up.",
+  "readingMinutes": 8,
+  "thesis": "Variance Follow-Up is examined from the documented controller record.",
+  "questions": [
+    "What is the population?",
+    "Where does the wait occur?"
+  ],
+  "sections": [
+    {
+      "heading": "Question and scope",
+      "paragraphs": [
+        "Variance Follow-Up is examined from the documented record in a defined window."
+      ]
+    }
+  ],
+  "related": [],
+  "category": "Controller research",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-variance-follow-up.svg",
+  "sources": []
+},{
+  "slug": "toc02-controller-review-evidence",
+  "title": "Controller Review Evidence",
+  "excerpt": "A bounded controller record review for controller review evidence.",
+  "readingMinutes": 8,
+  "thesis": "Controller Review Evidence is examined from the documented controller record.",
+  "questions": [
+    "What is the population?",
+    "Where does the wait occur?"
+  ],
+  "sections": [
+    {
+      "heading": "Question and scope",
+      "paragraphs": [
+        "Controller Review Evidence is examined from the documented record in a defined window."
+      ]
+    }
+  ],
+  "related": [],
+  "category": "Controller research",
+  "publishedAt": "2026-11-02",
+  "visibleDate": "November 2, 2026",
+  "thumbnail": "/thumbnails/november-02/toc02-controller-review-evidence.svg",
+  "sources": []
+}];
 export const october27ResearchBySlug = new Map(october27Research.map((post) => [post.slug, post]));
