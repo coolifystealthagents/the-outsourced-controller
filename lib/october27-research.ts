@@ -1,6 +1,8 @@
 import type { October13Research } from './october13-research';
+import { november03Research } from './november03-research';
 
 export const october27Research: October13Research[] = [
+...november03Research,
 {
   "slug": "close-cycle-time-measurement-review-oct27",
   "title": "Measuring Close Cycle Time Without a Flattering Definition",
