@@ -1,7 +1,9 @@
 import type { October13Blog } from './october13-blog';
 import { november03Blogs } from './november03-blog';
+import { november04Blogs } from './november04-blog';
 
 export const october27Blogs: October13Blog[] = [
+...november04Blogs,
 ...november03Blogs,
 {
   "slug": "month-end-close-checklist-versioning-oct27",
