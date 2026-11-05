@@ -1,8 +1,10 @@
 import type { October13Research } from './october13-research';
 import { november03Research } from './november03-research';
+import { november05Research } from './november05-research';
 import { november04Research } from './november04-research';
 
 export const october27Research: October13Research[] = [
+...november05Research,
 ...november04Research,
 ...november03Research,
 {

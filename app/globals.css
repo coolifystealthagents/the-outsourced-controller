@@ -3,3 +3,18 @@
 .article-toc{position:sticky;top:90px;max-height:64vh;overflow-y:auto}
 .mobile-toc,details.toc{position:sticky;top:0;z-index:20;background:var(--bg)}
 h2[id],h3[id]{scroll-margin-top:90px}
+
+/* 2026-11-05 batch: ToC beside article, one mobile disclosure */
+.article-layout{grid-template-columns:minmax(0,1fr) 280px;gap:32px}
+.article-layout>.sidebar{position:sticky;top:92px;align-self:start;max-height:calc(100dvh - 112px);overflow-y:auto}
+.article-layout .article-toc{position:static!important;max-height:none;overflow:visible}
+.mobile-toc{display:none}
+@media(max-width:900px){
+  .article-layout{grid-template-columns:1fr}
+  .article-layout>.sidebar{position:static;max-height:none}
+  .article-layout>.sidebar .article-toc{display:none}
+  .mobile-toc{display:block;margin:0 0 1rem;border:1px solid #1113;border-radius:12px;background:#fff;padding:.4rem 1rem}
+  .mobile-toc summary{cursor:pointer;min-height:44px;display:flex;align-items:center;font-weight:800}
+  .mobile-toc nav{display:grid;gap:.15rem;padding:.2rem 0 .6rem}
+  .mobile-toc a{padding:.5rem 0;border-top:1px solid #0001;font-size:.9rem}
+}
