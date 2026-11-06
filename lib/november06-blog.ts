@@ -91,7 +91,7 @@ export const november06Blogs: October13Blog[] = [
         "heading": "The control this variance explanation needs",
         "paragraphs": [
           "The variance review should show what arrived, what was checked, and what happens next. A variance explanation process that depends on one person remembering a detail is not yet a control. The first design question is which decision the variance explanation workpaper exists to support. Good variance explanation controls reduce the number of times the same question is answered differently. For this step, the written action is to record the variance, the driver, and the source report.",
-          "The variance review works when a new reviewer can pick up an item without reopening a chat thread. A control that survives staff turnover is worth more than a longer form that gets skipped. The variance explanation brief should name the decision, the support, and the person accountable for it.",
+          "The variance review works when a new reviewer can pick up an item without reopening a chat thread. A control that survives staff turnover is worth more than a longer form that gets skipped. The variance explanation brief should name the decision, the support, and the person accountable for it. The close calendar shows both the task date and the analyst who prepared it.",
           "A small, dated variance explanation rule is easier to defend than a policy nobody reads. The control should make exceptions visible rather than forcing them into a normal item. For controllers and finance leaders, the test is whether the same variance explanation item can be explained twice the same way."
         ]
       },
@@ -107,7 +107,7 @@ export const november06Blogs: October13Blog[] = [
         "heading": "Where the analyst’s work stops",
         "paragraphs": [
           "Escalation is a normal step, not a failure of the variance explanation process. When the boundary moves, tell the analyst on the same day it changes. The variance note workpaper should show that an escalation happened and who received it. A written boundary protects the client relationship as much as the analyst. For this step, the written action is to record the variance, the driver, and the source report.",
-          "Keep the variance explanation scope narrow enough that one person can actually own it. If the variance explanation boundary lives only in a training call, it disappears the first busy week. The controller keeps the decisions that move money, access, policy, or a client promise.",
+          "Keep the variance explanation scope narrow enough that one person can actually own it. If the variance explanation boundary lives only in a training call, it disappears the first busy week. The controller keeps the decisions that move money, access, policy, or a client promise. A later reviewer can confirm the same detail on the ledger and the workpaper.",
           "Write down which systems the analyst may touch and which questions go back to the controller. A prepared variance explanation packet is a question waiting for a decision, not an approval in itself. The any conclusion about whether a variance is acceptable stays with the accountable owner, however complete the preparation looks."
         ]
       },
@@ -344,7 +344,7 @@ export const november06Blogs: October13Blog[] = [
         "paragraphs": [
           "A five-minute end-of-shift note prevents most next-morning confusion. The review pack should be cleared of duplicate entries before new work starts. Log the exception where the next person will look, not in a private note. A routine that fits on one page is more likely to survive a busy week. For this step, the written action is to record the controller approval separately. The next reviewer can act on the item without calling the analyst who prepared it.",
           "The analyst should leave each review pack item with a date and a next step. Review the controller review pack list before accepting a new request, not after. A consistent daily start time makes the queue easier to trust.",
-          "The daily controller review pack routine is short: open the list, confirm the reference, log the exception, and leave a named next action. Start with the oldest unresolved item, because age turns a small gap into an escalation. Small habits carry controller review pack: date the reference, initial the check, state the next action, and never copy a familiar value. The controller can trace the item to the source document and the date it was confirmed."
+          "The daily controller review pack routine is short: open the list, confirm the reference, log the exception, and leave a named next action. Start with the oldest unresolved item, because age turns a small gap into an escalation. Small habits carry controller review pack: date the reference, initial the check, state the next action, and never copy a familiar value. The controller can trace the item to the source document and the date it was confirmed. For the close, the schedule and the reported figure must agree before review."
         ]
       },
       {
@@ -564,7 +564,7 @@ export const november06Blogs: October13Blog[] = [
         "paragraphs": [
           "The controller keeps the decisions that move money, access, policy, or a client promise. Write down which systems the analyst may touch and which questions go back to the controller. A prepared cash forecast change packet is a question waiting for a decision, not an approval in itself. The any decision about liquidity, funding, or a covenant stays with the accountable owner, however complete the preparation looks. For this step, the written action is to record the change, the driver, and the source.",
           "The analyst can assemble support and flag a gap; the analyst cannot decide the exception. When the cash forecast change rule changes, apply the new rule to later items and leave earlier classifications intact. The test is whether the controller can reopen the item next month without calling the original analyst.",
-          "A boundary that is never written down becomes a different boundary for each new hire. The forecast review should route any decision about liquidity, funding, or a covenant to a named owner instead of parking it in the general list. An honest not-yet-verified note is better than a confident summary built on an unchecked field."
+          "A boundary that is never written down becomes a different boundary for each new hire. The forecast review should route any decision about liquidity, funding, or a covenant to a named owner instead of parking it in the general list. An honest not-yet-verified note is better than a confident summary built on an unchecked field. The workpaper stays with the entity file and the next check date."
         ]
       },
       {
