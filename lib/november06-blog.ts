@@ -30,7 +30,7 @@ export const november06Blogs: October13Blog[] = [
       {
         "heading": "Where the analyst’s work stops",
         "paragraphs": [
-          "For controllers and finance leaders, the boundary is only real if it is visible in the queue, not just in a policy file. A analyst who guesses at month-end close calendar turns a small gap into an escalation. The boundary should be written in the same place the work is assigned. A analyst who cannot see the boundary will invent one under pressure. For this step, the written action is to record the task, the owner, and the source system.",
+          "For controllers and finance leaders, the boundary is only real if it is visible in the queue, not just in a policy file. An analyst who guesses at month-end close calendar turns a small gap into an escalation. The boundary should be written in the same place the work is assigned. An analyst who cannot see the boundary will invent one under pressure. For this step, the written action is to record the task, the owner, and the source system.",
           "The queue should name the manager who decides accounting judgments, accruals, and any change to a reported figure, not just the department. Escalation is a normal step, not a failure of the month-end close calendar process. When the boundary moves, tell the analyst on the same day it changes.",
           "The close task workpaper should show that an escalation happened and who received it. A written boundary protects the client relationship as much as the analyst. Keep the month-end close calendar scope narrow enough that one person can actually own it."
         ]
@@ -199,7 +199,7 @@ export const november06Blogs: October13Blog[] = [
         "heading": "Exceptions that should stop the case",
         "paragraphs": [
           "A clear stop rule protects the client, the analyst, and the manager at the same time. When in doubt, the bank reconciliation exception item pauses and a named person decides. The reconciliation queue should show the exception type so it can be routed without rereading. An exception that touches a client deadline should escalate the same day it is found. For this step, the written action is to record the exception, the amount, and the date found.",
-          "The reconciliation exception workpaper should name the person who decided and the rule they applied. When an exception becomes common, revise the rule rather than adding more reminders. A analyst should stop and ask rather than resolve any adjustment to cash or a suspense account alone.",
+          "The reconciliation exception workpaper should name the person who decided and the rule they applied. When an exception becomes common, revise the rule rather than adding more reminders. An analyst should stop and ask rather than resolve any adjustment to cash or a suspense account alone.",
           "The stop condition should be visible to the client-facing team as well as the queue. Every exception needs a resolution date or a named next review. A clear exception path keeps small problems from becoming urgent ones. This is how the team keeps a variance visible after the close pack is issued."
         ]
       },
@@ -274,7 +274,7 @@ export const november06Blogs: October13Blog[] = [
       {
         "heading": "Exceptions that should stop the case",
         "paragraphs": [
-          "When an exception becomes common, revise the rule rather than adding more reminders. A analyst should stop and ask rather than resolve any decision to post, reverse, or reclassify an entry alone. The stop condition should be visible to the client-facing team as well as the queue. Every exception needs a resolution date or a named next review. For this step, the written action is to record the entry, the account, and the supporting document.",
+          "When an exception becomes common, revise the rule rather than adding more reminders. An analyst should stop and ask rather than resolve any decision to post, reverse, or reclassify an entry alone. The stop condition should be visible to the client-facing team as well as the queue. Every exception needs a resolution date or a named next review. For this step, the written action is to record the entry, the account, and the supporting document.",
           "A clear exception path keeps small problems from becoming urgent ones. When journal entry support is missing, workpaper the gap instead of filling it from memory. Anything touching money, safety, access, legal exposure, or a client commitment waits for the controller.",
           "Name the journal entry stop conditions in the brief; use judgment is an invitation to guess. Predictable journal entry items should stop the line: {exception}. The journal queue should separate an exception from a normal item before anyone starts working it."
         ]
@@ -335,8 +335,8 @@ export const november06Blogs: October13Blog[] = [
         "heading": "Where the analyst’s work stops",
         "paragraphs": [
           "An honest not-yet-verified note is better than a confident summary built on an unchecked field. The analyst owns the preparation standard; the owner owns the judgment call. Scope creep in controller review pack usually starts with one small favour that nobody workpapered. The handoff is complete when both sides know which decisions did not travel with the work. For this step, the written action is to mark each item prepared with the source and the date.",
-          "For controllers and finance leaders, the boundary is only real if it is visible in the queue, not just in a policy file. A analyst who guesses at controller review pack turns a small gap into an escalation. The boundary should be written in the same place the work is assigned.",
-          "A analyst who cannot see the boundary will invent one under pressure. The queue should name the manager who decides any judgment about the accuracy of a reported figure, not just the department. Escalation is a normal step, not a failure of the controller review pack process."
+          "For controllers and finance leaders, the boundary is only real if it is visible in the queue, not just in a policy file. An analyst who guesses at controller review pack turns a small gap into an escalation. The boundary should be written in the same place the work is assigned.",
+          "An analyst who cannot see the boundary will invent one under pressure. The queue should name the manager who decides any judgment about the accuracy of a reported figure, not just the department. Escalation is a normal step, not a failure of the controller review pack process."
         ]
       },
       {
@@ -410,7 +410,7 @@ export const november06Blogs: October13Blog[] = [
       {
         "heading": "Where the analyst’s work stops",
         "paragraphs": [
-          "A analyst who guesses at bookkeeping boundary turns a small gap into an escalation. The boundary should be written in the same place the work is assigned. A analyst who cannot see the boundary will invent one under pressure. The queue should name the manager who decides accruals, estimates, policy choices, and any reported figure, not just the department. For this step, the written action is to record the task, the system, and the evidence required.",
+          "An analyst who guesses at bookkeeping boundary turns a small gap into an escalation. The boundary should be written in the same place the work is assigned. An analyst who cannot see the boundary will invent one under pressure. The queue should name the manager who decides accruals, estimates, policy choices, and any reported figure, not just the department. For this step, the written action is to record the task, the system, and the evidence required.",
           "Escalation is a normal step, not a failure of the bookkeeping boundary process. When the boundary moves, tell the analyst on the same day it changes. The task brief workpaper should show that an escalation happened and who received it.",
           "A written boundary protects the client relationship as much as the analyst. Keep the bookkeeping boundary scope narrow enough that one person can actually own it. If the bookkeeping boundary boundary lives only in a training call, it disappears the first busy week. The review pack compares the number with the ledger and the approved source."
         ]
@@ -579,7 +579,7 @@ export const november06Blogs: October13Blog[] = [
         "heading": "Exceptions that should stop the case",
         "paragraphs": [
           "When in doubt, the cash forecast change item pauses and a named person decides. The forecast review should show the exception type so it can be routed without rereading. An exception that touches a client deadline should escalate the same day it is found. The forecast change workpaper should name the person who decided and the rule they applied. For this step, the written action is to record the change, the driver, and the source.",
-          "When an exception becomes common, revise the rule rather than adding more reminders. A analyst should stop and ask rather than resolve any decision about liquidity, funding, or a covenant alone. The stop condition should be visible to the client-facing team as well as the queue.",
+          "When an exception becomes common, revise the rule rather than adding more reminders. An analyst should stop and ask rather than resolve any decision about liquidity, funding, or a covenant alone. The stop condition should be visible to the client-facing team as well as the queue.",
           "Every exception needs a resolution date or a named next review. A clear exception path keeps small problems from becoming urgent ones. When cash forecast change support is missing, workpaper the gap instead of filling it from memory."
         ]
       },
