@@ -14,36 +14,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Write a variance note the controller can defend",
         "paragraphs": [
-          "A variance note should explain the number, the driver, and the source in one place. Start with the account, the period, and the amount. A note that says the variance is timing without the evidence is not a note. Keep the original note beside the corrected version.",
-          "Keep the note short enough to review during the close. The controller should see the key driver and the evidence without reading a long narrative. A short note with four fields is easier to use than a long narrative. Keep the evidence with the record rather than in a separate log."
+          "A variance note should explain the number, the driver, and the source in one place. Start with the account, the period, and the amount. A note that says the variance is timing without the evidence is not a note. Keep the original note beside the corrected version. The close checklist should show the dependency, not just the task.",
+          "Keep the note short enough to review during the close. The controller should see the key driver and the evidence without reading a long narrative. A short note with four fields is easier to use than a long narrative. Keep the evidence with the record rather than in a separate log. The controller should be able to trace the number to the ledger. The flux question should name what would confirm the driver."
         ]
       },
       {
         "heading": "Record the number and the driver",
         "paragraphs": [
-          "Write the actual amount, the comparison amount, and the variance. Name the driver in one sentence. A driver that cannot be tied to a transaction or a contract is a guess. Keep the original note beside the corrected version.",
-          "Record the source report and the date it was pulled. A later reviewer should be able to reproduce the number. The source should be the ledger or an approved report. Record the date and the source so the next reviewer can repeat the check."
+          "Write the actual amount, the comparison amount, and the variance. Name the driver in one sentence. A driver that cannot be tied to a transaction or a contract is a guess. Keep the original note beside the corrected version. The flux question should name what would confirm the driver. The close pack should keep the evidence beside the note.",
+          "Record the source report and the date it was pulled. A later reviewer should be able to reproduce the number. The source should be the ledger or an approved report. Record the date and the source so the next reviewer can repeat the check. The flux question should name what would confirm the driver. The close checklist should show the dependency, not just the task."
         ]
       },
       {
         "heading": "Record the evidence and the owner",
         "paragraphs": [
-          "Link the supporting document, the journal entry, or the contract. Name the person who owns the explanation. A variance without an owner will sit until the controller asks again. Update the template when the same question appears twice.",
-          "Record the review date and the reviewer. A note that is reviewed after the close is still useful, but the timing matters. Record the date and the source so the next reviewer can repeat the check. A control that depends on memory is not yet a control."
+          "Link the supporting document, the journal entry, or the contract. Name the person who owns the explanation. A variance without an owner will sit until the controller asks again. Update the template when the same question appears twice. The close pack should keep the evidence beside the note. The evidence request should name the person who can provide it.",
+          "Record the review date and the reviewer. A note that is reviewed after the close is still useful, but the timing matters. Record the date and the source so the next reviewer can repeat the check. A control that depends on memory is not yet a control. The reviewer should see the reconciliation and the conclusion. The intercompany pair should use the same period and account."
         ]
       },
       {
         "heading": "Set the follow-up",
         "paragraphs": [
-          "If the variance is not resolved, record the next step and the date. A note that ends with investigate is not a plan. The controller should know what happens next. A short note with four fields is easier to use than a long narrative.",
-          "Close the note only when the explanation is accepted. A closed note without evidence is not a closure. A short note with four fields is easier to use than a long narrative. Test the rule on one real account before applying it to the close."
+          "If the variance is not resolved, record the next step and the date. A note that ends with investigate is not a plan. The controller should know what happens next. A short note with four fields is easier to use than a long narrative. The close review should leave one owner and one date. The flux question should name what would confirm the driver.",
+          "Close the note only when the explanation is accepted. A closed note without evidence is not a closure. A short note with four fields is easier to use than a long narrative. Test the rule on one real account before applying it to the close. The intercompany pair should use the same period and account. The variance note should distinguish a fact from a hypothesis."
         ]
       },
       {
         "heading": "Review the note with the controller",
         "paragraphs": [
-          "Read the note with the controller before the close meeting. Ask whether the driver and the evidence are clear. Update the note if they are not. Record the exception and the person who approved it.",
-          "Keep the note with the close pack. A later audit may need to see what the controller reviewed. The record is the evidence that the variance was controlled. Write the deadline as a date and a local time."
+          "Read the note with the controller before the close meeting. Ask whether the driver and the evidence are clear. Update the note if they are not. Record the exception and the person who approved it. The reviewer should see the reconciliation and the conclusion. The audit log should show the source and the due date.",
+          "Keep the note with the close pack. A later audit may need to see what the controller reviewed. The record is the evidence that the variance was controlled. Write the deadline as a date and a local time. The flux question should name what would confirm the driver. The intercompany pair should use the same period and account."
         ]
       }
     ],
@@ -64,36 +64,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Build a month-end close checklist for a small finance team",
         "paragraphs": [
-          "A close checklist should make the dependencies visible. Start with the tasks, the owners, and the order. A checklist that lists every task without the dependencies will cause a last-minute scramble. Record the exception and the person who approved it.",
-          "Keep the checklist short enough to finish. A small team cannot run a fifty-step close. Focus on the tasks that affect the numbers or the review. Review the first few notes together before the process expands."
+          "A close checklist should make the dependencies visible. Start with the tasks, the owners, and the order. A checklist that lists every task without the dependencies will cause a last-minute scramble. Record the exception and the person who approved it. The evidence request should name the person who can provide it. The reviewer should see the reconciliation and the conclusion.",
+          "Keep the checklist short enough to finish. A small team cannot run a fifty-step close. Focus on the tasks that affect the numbers or the review. Review the first few notes together before the process expands. The close checklist should show the dependency, not just the task. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "List the tasks and the owners",
         "paragraphs": [
-          "Write each task with a named owner and a due date. A task owned by a team will be missed. The owner should know the expected output. Review the first few notes together before the process expands.",
-          "Record the dependency for each task. A reconciliation cannot start before the bank statement arrives. The checklist should show the sequence. Separate what was observed from what was assumed."
+          "Write each task with a named owner and a due date. A task owned by a team will be missed. The owner should know the expected output. Review the first few notes together before the process expands. The evidence request should name the person who can provide it. The reconciliation should show every open item and its owner.",
+          "Record the dependency for each task. A reconciliation cannot start before the bank statement arrives. The checklist should show the sequence. Separate what was observed from what was assumed. A journal entry should show the period and the support. The audit log should show the source and the due date."
         ]
       },
       {
         "heading": "Set the review and the lock",
         "paragraphs": [
-          "Name the person who reviews the close and the date the ledger is locked. A close without a lock can drift for days. The review should happen before the lock. Test the rule on one real account before applying it to the close.",
-          "Record the evidence the reviewer needs. A review that only looks at the total will miss a misclassified account. Test the rule on one real account before applying it to the close. A short note with four fields is easier to use than a long narrative."
+          "Name the person who reviews the close and the date the ledger is locked. A close without a lock can drift for days. The review should happen before the lock. Test the rule on one real account before applying it to the close. The controller should be able to trace the number to the ledger. The reviewer should see the reconciliation and the conclusion.",
+          "Record the evidence the reviewer needs. A review that only looks at the total will miss a misclassified account. Test the rule on one real account before applying it to the close. A short note with four fields is easier to use than a long narrative. The reconciliation should show every open item and its owner. The close pack should keep the evidence beside the note."
         ]
       },
       {
         "heading": "Track the exceptions",
         "paragraphs": [
-          "List the items that are not complete and the reason. An exception should have an owner and a next date. The close should not hide an open item. Write the deadline as a date and a local time.",
-          "Review the exceptions daily during the close. A daily review is more useful than a final scramble. Keep the original note beside the corrected version. Name the owner in the same line as the action."
+          "List the items that are not complete and the reason. An exception should have an owner and a next date. The close should not hide an open item. Write the deadline as a date and a local time. The intercompany pair should use the same period and account. The close pack should keep the evidence beside the note.",
+          "Review the exceptions daily during the close. A daily review is more useful than a final scramble. Keep the original note beside the corrected version. Name the owner in the same line as the action. A journal entry should show the period and the support. The reviewer should see the reconciliation and the conclusion."
         ]
       },
       {
         "heading": "Review the checklist after the close",
         "paragraphs": [
-          "Ask the team which task caused the most delay. Update the checklist or the dependency. A checklist that improves after each close is more valuable than a perfect template. A short note with four fields is easier to use than a long narrative.",
-          "Keep the completed checklist with the close pack. A later audit may need to see who reviewed what. If the source is unclear, route the question instead of guessing. Separate what was observed from what was assumed."
+          "Ask the team which task caused the most delay. Update the checklist or the dependency. A checklist that improves after each close is more valuable than a perfect template. A short note with four fields is easier to use than a long narrative. The variance note should distinguish a fact from a hypothesis. The intercompany pair should use the same period and account.",
+          "Keep the completed checklist with the close pack. A later audit may need to see who reviewed what. If the source is unclear, route the question instead of guessing. Separate what was observed from what was assumed. The flux question should name what would confirm the driver. The reviewer should see the reconciliation and the conclusion."
         ]
       }
     ],
@@ -114,36 +114,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Set a journal entry approval rule that survives an audit",
         "paragraphs": [
-          "A journal entry approval rule should make the preparer and the reviewer visible. Start with the entry type, the amount, and the risk. A rule that only requires a signature without the evidence will not survive an audit. Ask whether a new reviewer could act on the record without a conversation.",
-          "Keep the rule simple enough to apply during the close. The entry should not wait for a long approval chain. The rule should name the exception path. Keep the evidence with the record rather than in a separate log."
+          "A journal entry approval rule should make the preparer and the reviewer visible. Start with the entry type, the amount, and the risk. A rule that only requires a signature without the evidence will not survive an audit. Ask whether a new reviewer could act on the record without a conversation. The close pack should keep the evidence beside the note. The intercompany pair should use the same period and account.",
+          "Keep the rule simple enough to apply during the close. The entry should not wait for a long approval chain. The rule should name the exception path. Keep the evidence with the record rather than in a separate log. The reviewer should see the reconciliation and the conclusion. The flux question should name what would confirm the driver."
         ]
       },
       {
         "heading": "Name the preparer and the reviewer",
         "paragraphs": [
-          "Record the preparer, the reviewer, and the date. The reviewer should not be the preparer. A self-approved entry is a control gap. Name the owner in the same line as the action.",
-          "Record the evidence the reviewer saw. The supporting schedule, the contract, or the calculation should be linked. A reviewer who only sees the entry cannot test it. Review the first few notes together before the process expands."
+          "Record the preparer, the reviewer, and the date. The reviewer should not be the preparer. A self-approved entry is a control gap. Name the owner in the same line as the action. The controller should be able to trace the number to the ledger. The intercompany pair should use the same period and account.",
+          "Record the evidence the reviewer saw. The supporting schedule, the contract, or the calculation should be linked. A reviewer who only sees the entry cannot test it. Review the first few notes together before the process expands. The flux question should name what would confirm the driver. The audit log should show the source and the due date."
         ]
       },
       {
         "heading": "Set the amount and the risk threshold",
         "paragraphs": [
-          "Define the threshold above which a second reviewer is required. A small entry may need only one review. A large or unusual entry needs more. If the source is unclear, route the question instead of guessing.",
-          "Record the reason for the entry and the accounting treatment. A recurring entry should reference the policy or the schedule. Record the date and the source so the next reviewer can repeat the check. Ask whether a new reviewer could act on the record without a conversation."
+          "Define the threshold above which a second reviewer is required. A small entry may need only one review. A large or unusual entry needs more. If the source is unclear, route the question instead of guessing. The audit log should show the source and the due date. The flux question should name what would confirm the driver.",
+          "Record the reason for the entry and the accounting treatment. A recurring entry should reference the policy or the schedule. Record the date and the source so the next reviewer can repeat the check. Ask whether a new reviewer could act on the record without a conversation. A journal entry should show the period and the support. The controller should be able to trace the number to the ledger."
         ]
       },
       {
         "heading": "Record the posting and the reversal",
         "paragraphs": [
-          "Record the posting date and the period. An entry posted to the wrong period distorts the close. The reversal should be planned if the entry is an accrual. Test the rule on one real account before applying it to the close.",
-          "Check the entry against the trial balance after posting. A posting error is easier to fix before the close is locked. Record the exception and the person who approved it. Separate what was observed from what was assumed."
+          "Record the posting date and the period. An entry posted to the wrong period distorts the close. The reversal should be planned if the entry is an accrual. Test the rule on one real account before applying it to the close. The controller should be able to trace the number to the ledger. The variance note should distinguish a fact from a hypothesis.",
+          "Check the entry against the trial balance after posting. A posting error is easier to fix before the close is locked. Record the exception and the person who approved it. Separate what was observed from what was assumed. The reconciliation should show every open item and its owner."
         ]
       },
       {
         "heading": "Review the entries after the close",
         "paragraphs": [
-          "Sample the entries and check the approval and the evidence. Look for a pattern by preparer or entry type. A repeated gap may point to a training or threshold problem. Review the first few notes together before the process expands.",
-          "Update the rule after the review. A rule that is not reviewed becomes a formality. Name the owner in the same line as the action. Review the first few notes together before the process expands."
+          "Sample the entries and check the approval and the evidence. Look for a pattern by preparer or entry type. A repeated gap may point to a training or threshold problem. Review the first few notes together before the process expands. The intercompany pair should use the same period and account. The close review should leave one owner and one date.",
+          "Update the rule after the review. A rule that is not reviewed becomes a formality. Name the owner in the same line as the action. Review the first few notes together before the process expands. The flux question should name what would confirm the driver. The reviewer should see the reconciliation and the conclusion."
         ]
       }
     ],
@@ -164,36 +164,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Prepare an account reconciliation the reviewer can follow",
         "paragraphs": [
-          "A reconciliation should let the reviewer follow the balance from the ledger to the support. Start with the account, the period, and the balance. A reconciliation that only shows a difference does not explain it. A short note with four fields is easier to use than a long narrative.",
-          "Keep the reconciliation to one page plus the support. The reviewer should see the key items and the conclusion. Keep the original note beside the corrected version. Use the same format for every handover so the next reader can scan it."
+          "A reconciliation should let the reviewer follow the balance from the ledger to the support. Start with the account, the period, and the balance. A reconciliation that only shows a difference does not explain it. A short note with four fields is easier to use than a long narrative. The close review should leave one owner and one date. The variance note should distinguish a fact from a hypothesis.",
+          "Keep the reconciliation to one page plus the support. The reviewer should see the key items and the conclusion. Keep the original note beside the corrected version. Use the same format for every handover so the next reader can scan it. The controller should be able to trace the number to the ledger. A journal entry should show the period and the support."
         ]
       },
       {
         "heading": "Record the balance and the support",
         "paragraphs": [
-          "Write the ledger balance and the supporting balance. List the reconciling items and the source for each. A support total without the items is not a reconciliation. Write the deadline as a date and a local time.",
-          "Record the date the support was obtained. A stale statement may not match the period. The reviewer should see the date. Keep the evidence with the record rather than in a separate log."
+          "Write the ledger balance and the supporting balance. List the reconciling items and the source for each. A support total without the items is not a reconciliation. Write the deadline as a date and a local time. The audit log should show the source and the due date. The reviewer should see the reconciliation and the conclusion.",
+          "Record the date the support was obtained. A stale statement may not match the period. The reviewer should see the date. Keep the evidence with the record rather than in a separate log. A journal entry should show the period and the support. The controller should be able to trace the number to the ledger."
         ]
       },
       {
         "heading": "Explain the differences",
         "paragraphs": [
-          "Write the reason for each difference and the expected resolution. A difference that is not explained should be marked as open. The reviewer should know what is still unresolved. Test the rule on one real account before applying it to the close.",
-          "Record the owner and the date for each open item. A reconciliation with open items but no owner is not complete. Update the template when the same question appears twice. Separate what was observed from what was assumed."
+          "Write the reason for each difference and the expected resolution. A difference that is not explained should be marked as open. The reviewer should know what is still unresolved. Test the rule on one real account before applying it to the close. The intercompany pair should use the same period and account. The flux question should name what would confirm the driver.",
+          "Record the owner and the date for each open item. A reconciliation with open items but no owner is not complete. Update the template when the same question appears twice. Separate what was observed from what was assumed. The audit log should show the source and the due date. The close pack should keep the evidence beside the note."
         ]
       },
       {
         "heading": "Record the conclusion",
         "paragraphs": [
-          "Write whether the balance is supported, partially supported, or not supported. Name the reviewer and the date. A conclusion without evidence is a guess. A short note with four fields is easier to use than a long narrative.",
-          "If the balance is not supported, record the next step. Do not close the reconciliation to meet the deadline. Record the exception and the person who approved it. Use the same format for every handover so the next reader can scan it."
+          "Write whether the balance is supported, partially supported, or not supported. Name the reviewer and the date. A conclusion without evidence is a guess. A short note with four fields is easier to use than a long narrative. The close pack should keep the evidence beside the note.",
+          "If the balance is not supported, record the next step. Do not close the reconciliation to meet the deadline. Record the exception and the person who approved it. Use the same format for every handover so the next reader can scan it. The flux question should name what would confirm the driver. The variance note should distinguish a fact from a hypothesis."
         ]
       },
       {
         "heading": "Review the reconciliation with the controller",
         "paragraphs": [
-          "Read the reconciliation with the controller before the close. Ask whether the support and the conclusion are clear. Update the reconciliation if they are not. Name the owner in the same line as the action.",
-          "Keep the reconciliation with the close pack. A later audit may need to see the support and the conclusion. Separate what was observed from what was assumed. Record the exception and the person who approved it."
+          "Read the reconciliation with the controller before the close. Ask whether the support and the conclusion are clear. Update the reconciliation if they are not. Name the owner in the same line as the action. The intercompany pair should use the same period and account.",
+          "Keep the reconciliation with the close pack. A later audit may need to see the support and the conclusion. Separate what was observed from what was assumed. Record the exception and the person who approved it. A journal entry should show the period and the support. The intercompany pair should use the same period and account."
         ]
       }
     ],
@@ -214,36 +214,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Record a flux analysis question without guessing the answer",
         "paragraphs": [
-          "A flux analysis note should record the question, not a confident answer. Start with the account, the period, and the change. A note that says the variance is due to timing without evidence closes the question too early. Ask whether a new reviewer could act on the record without a conversation.",
-          "Keep the note short enough to review with the controller. The question should be specific enough to answer. Review the first few notes together before the process expands. Test the rule on one real account before applying it to the close."
+          "A flux analysis note should record the question, not a confident answer. Start with the account, the period, and the change. A note that says the variance is due to timing without evidence closes the question too early. Ask whether a new reviewer could act on the record without a conversation. The flux question should name what would confirm the driver. The close checklist should show the dependency, not just the task.",
+          "Keep the note short enough to review with the controller. The question should be specific enough to answer. Review the first few notes together before the process expands. Test the rule on one real account before applying it to the close. The audit log should show the source and the due date. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "Record the data and the change",
         "paragraphs": [
-          "Write the current balance, the prior balance, and the change. Record the source and the date. A change without the data is an opinion. Use the same format for every handover so the next reader can scan it.",
-          "Record the comparison period and the currency. A change that is measured against the wrong period is misleading. Name the owner in the same line as the action. Keep the evidence with the record rather than in a separate log."
+          "Write the current balance, the prior balance, and the change. Record the source and the date. A change without the data is an opinion. Use the same format for every handover so the next reader can scan it. The controller should be able to trace the number to the ledger. The reviewer should see the reconciliation and the conclusion.",
+          "Record the comparison period and the currency. A change that is measured against the wrong period is misleading. Name the owner in the same line as the action. Keep the evidence with the record rather than in a separate log. The controller should be able to trace the number to the ledger. The intercompany pair should use the same period and account."
         ]
       },
       {
         "heading": "Record the possible driver and the question",
         "paragraphs": [
-          "Write the possible drivers and the evidence for each. Distinguish the confirmed driver from the hypothesis. The question should name what would confirm or rule out each driver. Separate what was observed from what was assumed.",
-          "Record the owner who can answer the question. A question without an owner will sit. Test the rule on one real account before applying it to the close. Ask whether a new reviewer could act on the record without a conversation."
+          "Write the possible drivers and the evidence for each. Distinguish the confirmed driver from the hypothesis. The question should name what would confirm or rule out each driver. Separate what was observed from what was assumed. The intercompany pair should use the same period and account. The evidence request should name the person who can provide it.",
+          "Record the owner who can answer the question. A question without an owner will sit. Test the rule on one real account before applying it to the close. Ask whether a new reviewer could act on the record without a conversation. The evidence request should name the person who can provide it. The controller should be able to trace the number to the ledger."
         ]
       },
       {
         "heading": "Set the follow-up",
         "paragraphs": [
-          "Record the next step and the date. The step might be a data request, a conversation, or a journal entry review. The note should make the next action obvious. Write the deadline as a date and a local time.",
-          "Close the note only when the question is answered or the driver is confirmed. A closed note without an answer is not a closure. Keep the evidence with the record rather than in a separate log. If the source is unclear, route the question instead of guessing."
+          "Record the next step and the date. The step might be a data request, a conversation, or a journal entry review. The note should make the next action obvious. Write the deadline as a date and a local time. The reviewer should see the reconciliation and the conclusion. The intercompany pair should use the same period and account.",
+          "Close the note only when the question is answered or the driver is confirmed. A closed note without an answer is not a closure. Keep the evidence with the record rather than in a separate log. If the source is unclear, route the question instead of guessing. The close review should leave one owner and one date."
         ]
       },
       {
         "heading": "Review the note with the controller",
         "paragraphs": [
-          "Read the note with the controller before the close meeting. Ask whether the question and the evidence are clear. Update the note if they are not. If the source is unclear, route the question instead of guessing.",
-          "Keep the note with the close pack. A later review may need to see what was investigated. Record the date and the source so the next reviewer can repeat the check. Keep the evidence with the record rather than in a separate log."
+          "Read the note with the controller before the close meeting. Ask whether the question and the evidence are clear. Update the note if they are not. If the source is unclear, route the question instead of guessing. A journal entry should show the period and the support. The reconciliation should show every open item and its owner.",
+          "Keep the note with the close pack. A later review may need to see what was investigated. Record the date and the source so the next reviewer can repeat the check. Keep the evidence with the record rather than in a separate log. The flux question should name what would confirm the driver. The reconciliation should show every open item and its owner."
         ]
       }
     ],
@@ -264,36 +264,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Keep an intercompany confirmation tied to the ledger",
         "paragraphs": [
-          "An intercompany confirmation should match the counterparty, the balance, and the period. Start with the entity pair and the account. A confirmation that only lists a total does not explain a difference. Name the owner in the same line as the action.",
-          "Keep the confirmation with the reconciliation. The reviewer should see the counterparty's number and the entity's number side by side. Record the date and the source so the next reviewer can repeat the check. A short note with four fields is easier to use than a long narrative."
+          "An intercompany confirmation should match the counterparty, the balance, and the period. Start with the entity pair and the account. A confirmation that only lists a total does not explain a difference. Name the owner in the same line as the action. A journal entry should show the period and the support. The reviewer should see the reconciliation and the conclusion.",
+          "Keep the confirmation with the reconciliation. The reviewer should see the counterparty's number and the entity's number side by side. Record the date and the source so the next reviewer can repeat the check. A short note with four fields is easier to use than a long narrative. The controller should be able to trace the number to the ledger. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "Record the counterparty and the balance",
         "paragraphs": [
-          "Write the counterparty entity, the account, and the period. Record the balance in the entity's books and the balance confirmed by the counterparty. A missing counterparty is a question, not a difference. Review the first few notes together before the process expands.",
-          "Record the currency and the exchange rate if the entities use different currencies. A rate difference can look like a balance difference. Use the same format for every handover so the next reader can scan it. A short note with four fields is easier to use than a long narrative."
+          "Write the counterparty entity, the account, and the period. Record the balance in the entity's books and the balance confirmed by the counterparty. A missing counterparty is a question, not a difference. Review the first few notes together before the process expands. The reconciliation should show every open item and its owner. The close pack should keep the evidence beside the note.",
+          "Record the currency and the exchange rate if the entities use different currencies. A rate difference can look like a balance difference. Use the same format for every handover so the next reader can scan it. A short note with four fields is easier to use than a long narrative. The audit log should show the source and the due date. The close checklist should show the dependency, not just the task."
         ]
       },
       {
         "heading": "Explain the reconciling items",
         "paragraphs": [
-          "List the items that explain the difference, with the source for each. An item that is not explained should be marked as open. The reviewer should know what is still unresolved. Record the date and the source so the next reviewer can repeat the check.",
-          "Record the owner and the date for each open item. A confirmation with open items but no owner is not complete. Review the first few notes together before the process expands. Keep the original note beside the corrected version."
+          "List the items that explain the difference, with the source for each. An item that is not explained should be marked as open. The reviewer should know what is still unresolved. Record the date and the source so the next reviewer can repeat the check. The intercompany pair should use the same period and account. The audit log should show the source and the due date.",
+          "Record the owner and the date for each open item. A confirmation with open items but no owner is not complete. Review the first few notes together before the process expands. Keep the original note beside the corrected version. A journal entry should show the period and the support. The audit log should show the source and the due date."
         ]
       },
       {
         "heading": "Record the sign-off",
         "paragraphs": [
-          "Write whether the balances are confirmed, partially confirmed, or not confirmed. Name the reviewer and the date. A sign-off without the support is a guess. Record the exception and the person who approved it.",
-          "If the balances are not confirmed, record the next step. Do not close the confirmation to meet the deadline. Name the owner in the same line as the action. Separate what was observed from what was assumed."
+          "Write whether the balances are confirmed, partially confirmed, or not confirmed. Name the reviewer and the date. A sign-off without the support is a guess. Record the exception and the person who approved it. The intercompany pair should use the same period and account. The controller should be able to trace the number to the ledger.",
+          "If the balances are not confirmed, record the next step. Do not close the confirmation to meet the deadline. Name the owner in the same line as the action. Separate what was observed from what was assumed. The audit log should show the source and the due date."
         ]
       },
       {
         "heading": "Review the process quarterly",
         "paragraphs": [
-          "Review the confirmations that took the longest or had the most differences. Look for a pattern by counterparty or account. Update the process. Review the first few notes together before the process expands.",
-          "Keep the confirmation with the close pack. A later audit may need to see the evidence. Ask whether a new reviewer could act on the record without a conversation. A short note with four fields is easier to use than a long narrative."
+          "Review the confirmations that took the longest or had the most differences. Look for a pattern by counterparty or account. Update the process. Review the first few notes together before the process expands. The flux question should name what would confirm the driver. A journal entry should show the period and the support.",
+          "Keep the confirmation with the close pack. A later audit may need to see the evidence. Ask whether a new reviewer could act on the record without a conversation. A short note with four fields is easier to use than a long narrative. The flux question should name what would confirm the driver. The controller should be able to trace the number to the ledger."
         ]
       }
     ],
@@ -314,36 +314,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Write an audit evidence request log the controller can use",
         "paragraphs": [
-          "An audit evidence log should make every request visible and owned. Start with the request, the owner, the due date, and the source. A log that only lists the request number does not help the controller. Ask whether a new reviewer could act on the record without a conversation.",
-          "Keep the log current. A request that is answered but not recorded will be asked for again. Use the same format for every handover so the next reader can scan it. Write the deadline as a date and a local time."
+          "An audit evidence log should make every request visible and owned. Start with the request, the owner, the due date, and the source. A log that only lists the request number does not help the controller. Ask whether a new reviewer could act on the record without a conversation. The reconciliation should show every open item and its owner.",
+          "Keep the log current. A request that is answered but not recorded will be asked for again. Use the same format for every handover so the next reader can scan it. Write the deadline as a date and a local time. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "Record the request and the owner",
         "paragraphs": [
-          "Write the request in the auditor's words, then the internal interpretation. Name the owner who will provide the evidence. A request without an owner will sit. Test the rule on one real account before applying it to the close.",
-          "Record the due date and the priority. The controller should see what is due first. Ask whether a new reviewer could act on the record without a conversation. If the source is unclear, route the question instead of guessing."
+          "Write the request in the auditor's words, then the internal interpretation. Name the owner who will provide the evidence. A request without an owner will sit. Test the rule on one real account before applying it to the close. The evidence request should name the person who can provide it. The close checklist should show the dependency, not just the task.",
+          "Record the due date and the priority. The controller should see what is due first. Ask whether a new reviewer could act on the record without a conversation. If the source is unclear, route the question instead of guessing. The audit log should show the source and the due date. The close checklist should show the dependency, not just the task."
         ]
       },
       {
         "heading": "Record the source and the status",
         "paragraphs": [
-          "Record the system or the file where the evidence lives. A request that says provide the report without the source is hard to fill. Use the same format for every handover so the next reader can scan it. A control that depends on memory is not yet a control.",
-          "Record the status: open, in progress, submitted, or accepted. A status without a date is a guess. Record the exception and the person who approved it. Test the rule on one real account before applying it to the close."
+          "Record the system or the file where the evidence lives. A request that says provide the report without the source is hard to fill. Use the same format for every handover so the next reader can scan it. A control that depends on memory is not yet a control. The flux question should name what would confirm the driver.",
+          "Record the status: open, in progress, submitted, or accepted. A status without a date is a guess. Record the exception and the person who approved it. Test the rule on one real account before applying it to the close. The intercompany pair should use the same period and account. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "Review the open requests weekly",
         "paragraphs": [
-          "Review the requests that are overdue or blocked. Ask the owner what is missing. A weekly review is more useful than a final scramble. A short note with four fields is easier to use than a long narrative.",
-          "Record the escalation if the owner is unavailable. The controller should know the risk. Update the template when the same question appears twice. Keep the original note beside the corrected version."
+          "Review the requests that are overdue or blocked. Ask the owner what is missing. A weekly review is more useful than a final scramble. A short note with four fields is easier to use than a long narrative. The controller should be able to trace the number to the ledger. A journal entry should show the period and the support.",
+          "Record the escalation if the owner is unavailable. The controller should know the risk. Update the template when the same question appears twice. Keep the original note beside the corrected version. The evidence request should name the person who can provide it. The intercompany pair should use the same period and account."
         ]
       },
       {
         "heading": "Close the log after the audit",
         "paragraphs": [
-          "Record the evidence submitted and the auditor's acceptance. A request that is submitted but not accepted is still open. A control that depends on memory is not yet a control. Keep the boundary visible in the place where the work is assigned.",
-          "Keep the log with the audit file. A later review may need to see what was provided. Update the template when the same question appears twice. Use the same format for every handover so the next reader can scan it."
+          "Record the evidence submitted and the auditor's acceptance. A request that is submitted but not accepted is still open. A control that depends on memory is not yet a control. Keep the boundary visible in the place where the work is assigned. The close pack should keep the evidence beside the note. The variance note should distinguish a fact from a hypothesis.",
+          "Keep the log with the audit file. A later review may need to see what was provided. Update the template when the same question appears twice. Use the same format for every handover so the next reader can scan it. The intercompany pair should use the same period and account. The close checklist should show the dependency, not just the task."
         ]
       }
     ],
@@ -364,36 +364,36 @@ export const november08Blogs: October13Blog[] = [
       {
         "heading": "How to approach: Plan a weekly close review on evidence",
         "paragraphs": [
-          "A weekly close review should answer one question: which items need a decision this week, and who will make it. Everything else belongs in the close checklist. If the meeting reviews every account, it becomes a status report. Separate what was observed from what was assumed.",
-          "Choose the items before the meeting. The controller should select the exceptions, the open reconciliations, and the unapproved entries. Send a short evidence pack in advance. Test the rule on one real account before applying it to the close."
+          "A weekly close review should answer one question: which items need a decision this week, and who will make it. Everything else belongs in the close checklist. If the meeting reviews every account, it becomes a status report. Separate what was observed from what was assumed. The close pack should keep the evidence beside the note. The reviewer should see the reconciliation and the conclusion.",
+          "Choose the items before the meeting. The controller should select the exceptions, the open reconciliations, and the unapproved entries. Send a short evidence pack in advance. Test the rule on one real account before applying it to the close. The intercompany pair should use the same period and account. The evidence request should name the person who can provide it."
         ]
       },
       {
         "heading": "Prepare the evidence pack",
         "paragraphs": [
-          "For each item, include the account, the issue, the owner, and the next step. Keep it to one page. A pack that takes an hour to read will not be read. Separate what was observed from what was assumed.",
-          "Do not include the entire reconciliation. Link the support and summarize the issue. The purpose is a decision. Test the rule on one real account before applying it to the close."
+          "For each item, include the account, the issue, the owner, and the next step. Keep it to one page. A pack that takes an hour to read will not be read. Separate what was observed from what was assumed. The close pack should keep the evidence beside the note. The variance note should distinguish a fact from a hypothesis.",
+          "Do not include the entire reconciliation. Link the support and summarize the issue. The purpose is a decision. Test the rule on one real account before applying it to the close. A journal entry should show the period and the support. The controller should be able to trace the number to the ledger."
         ]
       },
       {
         "heading": "Review by next action",
         "paragraphs": [
-          "Group the items by the decision they need: approve, investigate, post, or escalate. This turns a list of accounts into a list of decisions. It also shows when one reviewer is the bottleneck. Record the exception and the person who approved it.",
-          "For each group, ask what would change the current position. If nothing would change it, the item may not need a meeting slot. If the source is unclear, route the question instead of guessing. Ask whether a new reviewer could act on the record without a conversation."
+          "Group the items by the decision they need: approve, investigate, post, or escalate. This turns a list of accounts into a list of decisions. It also shows when one reviewer is the bottleneck. Record the exception and the person who approved it. The reviewer should see the reconciliation and the conclusion. The close pack should keep the evidence beside the note.",
+          "For each group, ask what would change the current position. If nothing would change it, the item may not need a meeting slot. If the source is unclear, route the question instead of guessing. Ask whether a new reviewer could act on the record without a conversation. The close review should leave one owner and one date. The flux question should name what would confirm the driver."
         ]
       },
       {
         "heading": "Limit the meeting to decisions",
         "paragraphs": [
-          "Do not read updates that everyone already has in writing. Ask the decision maker for a choice, a condition, or a request for specific evidence. Record the answer in the checklist. If the source is unclear, route the question instead of guessing.",
-          "If a decision cannot be made, name the missing person or evidence and set a date. Every discussed item should leave with an owner. Name the owner in the same line as the action. Separate what was observed from what was assumed."
+          "Do not read updates that everyone already has in writing. Ask the decision maker for a choice, a condition, or a request for specific evidence. Record the answer in the checklist. If the source is unclear, route the question instead of guessing. The intercompany pair should use the same period and account. The evidence request should name the person who can provide it.",
+          "If a decision cannot be made, name the missing person or evidence and set a date. Every discussed item should leave with an owner. Name the owner in the same line as the action. Separate what was observed from what was assumed. The variance note should distinguish a fact from a hypothesis. The reviewer should see the reconciliation and the conclusion."
         ]
       },
       {
         "heading": "Follow up and measure movement",
         "paragraphs": [
-          "Send a short written summary the same day with the decisions, owners, and dates. Check the summary against the checklist. The written record and the system record should agree. Test the rule on one real account before applying it to the close.",
-          "At the end of the close, review the actions that came out of the review. How many were completed, and how many moved the close forward? A meeting that produces actions but no movement is not working. Ask whether a new reviewer could act on the record without a conversation."
+          "Send a short written summary the same day with the decisions, owners, and dates. Check the summary against the checklist. The written record and the system record should agree. Test the rule on one real account before applying it to the close. The controller should be able to trace the number to the ledger. A journal entry should show the period and the support.",
+          "At the end of the close, review the actions that came out of the review. How many were completed, and how many moved the close forward? A meeting that produces actions but no movement is not working. Ask whether a new reviewer could act on the record without a conversation. The reconciliation should show every open item and its owner. The reviewer should see the reconciliation and the conclusion."
         ]
       }
     ],
