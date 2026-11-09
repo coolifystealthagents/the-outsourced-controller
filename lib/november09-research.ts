@@ -447,8 +447,8 @@ export const november09Research: October13Research[] = [
   ]
 },
 {
-  "slug": "where-does-delay-accumulate-in-the-close",
-  "title": "Where does delay accumulate in the close?",
+  "slug": "where-does-delay-accumulate-in-the-close-during-review",
+  "title": "Where does delay accumulate in the close during review?",
   "category": "Close research",
   "excerpt": "A proposed protocol for separating the preparation, the review, and the posting in a close task.",
   "thesis": "The study would test whether delay comes from the preparer, the reviewer, or the dependency.",
@@ -527,7 +527,7 @@ export const november09Research: October13Research[] = [
   ],
   "publishedAt": "2026-11-09",
   "visibleDate": "November 9, 2026",
-  "thumbnail": "/thumbnails/november-09/where-does-delay-accumulate-in-the-close.webp",
+  "thumbnail": "/thumbnails/november-09/where-does-delay-accumulate-in-the-close-during-review.webp",
   "readingMinutes": 12,
   "questions": [
     "What defines an eligible record for this question?",
