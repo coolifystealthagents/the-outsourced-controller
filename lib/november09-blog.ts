@@ -369,8 +369,8 @@ export const november09Blogs: October13Blog[] = [
   "readingMinutes": 9
 },
 {
-  "slug": "plan-a-weekly-close-review-on-evidence",
-  "title": "Plan a weekly close review on evidence",
+  "slug": "plan-a-weekly-close-review-on-recorded-evidence",
+  "title": "Plan a weekly close review on recorded evidence",
   "category": "Close operations",
   "excerpt": "A weekly review that uses the checklist, the open items, and the exceptions to decide the next week.",
   "sections": [
@@ -424,7 +424,7 @@ export const november09Blogs: October13Blog[] = [
   ],
   "publishedAt": "2026-11-09",
   "visibleDate": "November 9, 2026",
-  "thumbnail": "/thumbnails/november-09/plan-a-weekly-close-review-on-evidence.webp",
+  "thumbnail": "/thumbnails/november-09/plan-a-weekly-close-review-on-recorded-evidence.webp",
   "readingMinutes": 9
 },
 {
