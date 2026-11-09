@@ -180,8 +180,8 @@ export const november09Research: October13Research[] = [
   ]
 },
 {
-  "slug": "how-old-are-open-reconciliations-at-month-end",
-  "title": "How old are open reconciliations at month end?",
+  "slug": "how-old-are-open-reconciliations-at-month-end-for-this-close",
+  "title": "How old are open reconciliations at month end for this close?",
   "category": "Close research",
   "excerpt": "A proposed protocol for measuring the age and ownership of open reconciliations.",
   "thesis": "The study would test whether open reconciliations have an owner and a next date or sit until someone asks.",
@@ -260,7 +260,7 @@ export const november09Research: October13Research[] = [
   ],
   "publishedAt": "2026-11-09",
   "visibleDate": "November 9, 2026",
-  "thumbnail": "/thumbnails/november-09/how-old-are-open-reconciliations-at-month-end.webp",
+  "thumbnail": "/thumbnails/november-09/how-old-are-open-reconciliations-at-month-end-for-this-close.webp",
   "readingMinutes": 12,
   "questions": [
     "What defines an eligible record for this question?",
