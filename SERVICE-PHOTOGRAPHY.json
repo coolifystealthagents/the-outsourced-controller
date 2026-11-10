@@ -79,5 +79,14 @@
     "alt": "Colleagues reviewing documents together at a laptop",
     "sha256": "b67d62199a39674b6d78c54e9b6b343bba6947bd0fde305d070276879273c7d9",
     "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/budget-forecast-coordination.webp",
+    "pexelsPhotoId": 8296970,
+    "source": "https://www.pexels.com/photo/8296970/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Financial documents and calculations being checked at a desk",
+    "sha256": "1a79be2778120c5dce6f678e4899fcb0ea29c900e695d98a10083ef49c830892",
+    "note": "Licensed stock photograph illustrating the service; not company staff."
   }
 ]

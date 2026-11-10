@@ -201,5 +201,34 @@
       }
     ],
     "photoAlt": "Colleagues reviewing documents together at a laptop"
+  },
+  {
+    "slug": "budget-forecast-coordination",
+    "title": "Budget and forecast coordination",
+    "benefit": "Collect department inputs and keep forecast versions ready for finance review.",
+    "tasks": [
+      "Maintain the budget calendar and department input checklist",
+      "Collect approved assumptions and supporting schedules",
+      "Check template completeness and identify version mismatches",
+      "Track finance review comments and revised submissions"
+    ],
+    "deliverables": [
+      "Department input tracker",
+      "Consolidated draft workbook",
+      "Assumption and revision register"
+    ],
+    "prep": [
+      "Approved budget templates and planning dates",
+      "Department owners and source schedules",
+      "Finance reviewer and version-control rules"
+    ],
+    "example": "One department updates its headcount plan after submitting its forecast. Support identifies the affected workbook version, requests the revised approved input, and flags the change to finance before consolidation.",
+    "faq": [
+      {
+        "question": "Who owns the forecast assumptions?",
+        "answer": "Your department leaders and finance team approve assumptions, accounting treatment, and the final forecast. Support collects inputs, maintains versions, and documents review status."
+      }
+    ],
+    "photoAlt": "Financial documents and calculations being checked at a desk"
   }
 ]
