@@ -1,0 +1,83 @@
+[
+  {
+    "asset": "/service-photography/home.webp",
+    "pexelsPhotoId": 8297351,
+    "source": "https://www.pexels.com/photo/8297351/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Finance professional checking calculations at her desk",
+    "sha256": "03ba7b0467eaebefe55f329d4c773d01e6817ee513fe66e0c2de5008c5f4c597",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/about.webp",
+    "pexelsPhotoId": 7731381,
+    "source": "https://www.pexels.com/photo/7731381/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Colleagues reviewing documents together at a laptop",
+    "sha256": "b67d62199a39674b6d78c54e9b6b343bba6947bd0fde305d070276879273c7d9",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/month-end-close-coordination.webp",
+    "pexelsPhotoId": 7964540,
+    "source": "https://www.pexels.com/photo/7964540/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Documents and laptops arranged for a team discussion",
+    "sha256": "fa3041a668ddb2d577a216a753ce322c45b1b910c3f045f42ea0920afe225b34",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/management-reporting-support.webp",
+    "pexelsPhotoId": 7693683,
+    "source": "https://www.pexels.com/photo/7693683/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Colleagues reviewing information on a laptop",
+    "sha256": "a35505301ea221feea57db21c14c8e2b1b57ae693415c20ccd537dde816d5d25",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/reconciliation-workflow-support.webp",
+    "pexelsPhotoId": 4476375,
+    "source": "https://www.pexels.com/photo/4476375/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Hands checking a calculation against written records",
+    "sha256": "0820361bf63bb2545d6a942cc1c7c42f8779b117d986d74b45f8f5a8aa315ca1",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/accounts-payable-controls-support.webp",
+    "pexelsPhotoId": 6964119,
+    "source": "https://www.pexels.com/photo/6964119/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Colleagues reviewing financial documents at a table",
+    "sha256": "37cb9391e484f567e00d918d4a8eb080efaec1a3cd99b96403286ebd2a2e8cac",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/accounts-receivable-operations.webp",
+    "pexelsPhotoId": 7821708,
+    "source": "https://www.pexels.com/photo/7821708/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Financial records being reviewed with a calculator and laptop",
+    "sha256": "fcae45cf838c5bfe98b5095d9fd0d9007d5ad9307c5b939b504a0d43f3a5de9f",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/cash-visibility-support.webp",
+    "pexelsPhotoId": 8962448,
+    "source": "https://www.pexels.com/photo/8962448/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Financial statements, checklist, and calculator on a desk",
+    "sha256": "6e53130c5ad86b039540f3a2c6b0ace8f357e8dfaf061391880e085f5358c1b6",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  },
+  {
+    "asset": "/service-photography/finance-process-documentation.webp",
+    "pexelsPhotoId": 7731381,
+    "source": "https://www.pexels.com/photo/7731381/",
+    "license": "https://www.pexels.com/license/",
+    "alt": "Colleagues reviewing documents together at a laptop",
+    "sha256": "b67d62199a39674b6d78c54e9b6b343bba6947bd0fde305d070276879273c7d9",
+    "note": "Licensed stock photograph illustrating the work context; not presented as company staff or a client."
+  }
+]
