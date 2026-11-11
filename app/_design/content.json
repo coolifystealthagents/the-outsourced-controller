@@ -1,0 +1,285 @@
+{
+  "theme": "controller",
+  "font": "Cabinet Grotesk",
+  "heading": "Bring the close into focus.",
+  "intro": "Organized schedules, traceable records, and thoughtful follow-through for your finance team. Operational support that makes the work ready for review, with judgment kept where it belongs.",
+  "serviceHeading": "The work behind a well-prepared close.",
+  "serviceIntro": "Eight finance support services, from reconciliations and reporting preparation to budgets and close coordination. Explore exactly what gets prepared and what your finance reviewer approves.",
+  "label": "Finance operations support",
+  "statement": "Prepared is a status. Reviewed is another. Keep both clear.",
+  "chapter": "Make the review useful, not a search exercise.",
+  "body": "The schedule should link to its source. The reconciliation should show the unresolved item. The close calendar should distinguish preparation from approval. Good support makes that information easy to find.",
+  "bands": [
+    "Source records connected",
+    "Exceptions kept visible",
+    "Review responsibilities clear"
+  ],
+  "exampleTitle": "A closer look at the working papers.",
+  "boundary": "Your qualified accountants and finance leaders retain accounting judgments, tax advice, professional assurance, entries and payment approval, and final sign-off. Support prepares and coordinates the evidence.",
+  "closing": "What would make your next close clearer?",
+  "faq": [
+    [
+      "Does this replace our qualified controller?",
+      "No. The services provide administrative and operational support around your finance function. Professional judgment and final approval stay with your qualified team."
+    ],
+    [
+      "Can one role support multiple entities?",
+      "Yes, when source records, permissions, reporting periods, and reviewers are clearly separated and the workload is realistic."
+    ],
+    [
+      "Can support help between month-end closes?",
+      "Yes. Define recurring reporting preparation, reconciliation follow-up, record maintenance, or budget coordination alongside your close calendar."
+    ]
+  ],
+  "groups": [
+    "Prepare the close",
+    "Connect the records",
+    "Support the review"
+  ],
+  "learn": "Clear thinking for the finance work behind the numbers.",
+  "services": [
+    {
+      "slug": "month-end-close-coordination",
+      "title": "Month-end close coordination",
+      "benefit": "Give the close calendar a current owner, source record, and review status for each task.",
+      "tasks": [
+        "Maintain close tasks and dependencies",
+        "Follow up on requested schedules and evidence",
+        "Flag late inputs and unresolved review notes",
+        "Record authorized sign-offs and handoffs"
+      ],
+      "deliverables": [
+        "Close calendar",
+        "Outstanding-evidence queue",
+        "Dated close status brief"
+      ],
+      "prep": [
+        "Prior close checklist",
+        "Account and entity owner map",
+        "Review deadlines and sign-off rules"
+      ],
+      "example": "A reconciliation is marked prepared but lacks reviewer sign-off. Support separates those statuses, identifies the reviewer, and keeps the item open until the authorized sign-off is recorded.",
+      "faq": [
+        {
+          "question": "Can support approve the close?",
+          "answer": "No. Your finance leadership and qualified accountants retain accounting judgments and final close approval."
+        }
+      ],
+      "photoAlt": "Documents and laptops arranged for a team discussion",
+      "image": "/service-photography/month-end-close-coordination.webp"
+    },
+    {
+      "slug": "management-reporting-support",
+      "title": "Management reporting support",
+      "benefit": "Prepare a consistent reporting pack with clear source periods and review notes.",
+      "tasks": [
+        "Refresh approved reporting templates",
+        "Label entity, period, and source versions",
+        "Collect owner-provided variance explanations",
+        "Prepare the approved distribution checklist"
+      ],
+      "deliverables": [
+        "Draft management pack",
+        "Source and version index",
+        "Open variance-question list"
+      ],
+      "prep": [
+        "Approved reporting template",
+        "Finance-approved source exports",
+        "Metric definitions and recipients"
+      ],
+      "example": "A report contains figures from two different periods. Support flags the mismatch, attaches each source date, and routes it to the report owner before the pack is approved for distribution.",
+      "faq": [
+        {
+          "question": "Does support interpret financial performance independently?",
+          "answer": "Support can organize owner-provided explanations and flag inconsistencies. Financial conclusions and management recommendations stay with your finance leadership."
+        }
+      ],
+      "photoAlt": "Colleagues reviewing information on a laptop",
+      "image": "/service-photography/management-reporting-support.webp"
+    },
+    {
+      "slug": "reconciliation-workflow-support",
+      "title": "Reconciliation workflow support",
+      "benefit": "Keep supporting schedules, unresolved differences, and reviewer sign-offs connected.",
+      "tasks": [
+        "Organize reconciliations by account and period",
+        "Attach approved supporting evidence",
+        "Maintain an aged exception list",
+        "Track preparation and review status separately"
+      ],
+      "deliverables": [
+        "Reconciliation register",
+        "Supporting-evidence index",
+        "Unresolved-difference queue"
+      ],
+      "prep": [
+        "Account and period scope",
+        "Approved source statements and schedules",
+        "Preparer and reviewer responsibilities"
+      ],
+      "example": "A supporting schedule differs from the ledger export. Support records the difference and source versions, routes it to the account owner, and leaves the resolution open for qualified review.",
+      "faq": [
+        {
+          "question": "Can support create balancing entries?",
+          "answer": "Only your authorized accounting professionals determine and approve accounting entries. Support documents differences and maintains the review trail."
+        }
+      ],
+      "photoAlt": "Hands checking a calculation against written records",
+      "image": "/service-photography/reconciliation-workflow-support.webp"
+    },
+    {
+      "slug": "accounts-payable-controls-support",
+      "title": "Accounts payable controls support",
+      "benefit": "Keep invoice, vendor, and approval records organized before the authorized payment decision.",
+      "tasks": [
+        "Track invoices and missing supporting records",
+        "Maintain the documented approval trail",
+        "Flag duplicate references and vendor-data exceptions",
+        "Prepare approved payment-review queues"
+      ],
+      "deliverables": [
+        "Invoice approval register",
+        "Vendor exception list",
+        "Payment-review handoff"
+      ],
+      "prep": [
+        "Approved invoice sources",
+        "Approval matrix and vendor-change procedure",
+        "Named payment and vendor-data owners"
+      ],
+      "example": "An invoice contains new bank details. Support flags the change under the vendor-control procedure and holds it for authorized verification instead of updating the vendor record from the invoice alone.",
+      "faq": [
+        {
+          "question": "Can support release payments?",
+          "answer": "Payment authorization and release stay with your designated finance personnel. This service organizes records and approval status."
+        }
+      ],
+      "photoAlt": "Colleagues reviewing financial documents at a table",
+      "image": "/service-photography/accounts-payable-controls-support.webp"
+    },
+    {
+      "slug": "accounts-receivable-operations",
+      "title": "Accounts receivable operations",
+      "benefit": "Keep invoicing, account follow-up, and disputed items visible in one working queue.",
+      "tasks": [
+        "Prepare invoice inputs from approved records",
+        "Maintain customer follow-up worklists",
+        "Record approved reminders and replies",
+        "Route disputes, credits, and corrections for review"
+      ],
+      "deliverables": [
+        "Invoice preparation queue",
+        "Customer follow-up history",
+        "Dispute and credit-review register"
+      ],
+      "prep": [
+        "Approved billing records",
+        "Customer contacts and reminder rules",
+        "Credit and dispute escalation owners"
+      ],
+      "example": "A customer questions a line on an invoice. Support records the disputed item and source reference, pauses further messaging when your procedure requires it, and routes the question to the account owner.",
+      "faq": [
+        {
+          "question": "Can support approve credits or settlements?",
+          "answer": "No. Credits, write-offs, settlements, and changes to commercial terms require your authorized finance or account owner."
+        }
+      ],
+      "photoAlt": "Financial records being reviewed with a calculator and laptop",
+      "image": "/service-photography/accounts-receivable-operations.webp"
+    },
+    {
+      "slug": "cash-visibility-support",
+      "title": "Cash visibility support",
+      "benefit": "Maintain a dated view of approved cash inputs and unresolved timing assumptions.",
+      "tasks": [
+        "Update approved cash schedules",
+        "Label source dates and expected receipt or payment timing",
+        "Collect assumptions from accountable owners",
+        "Flag missing inputs and changes for finance review"
+      ],
+      "deliverables": [
+        "Current cash schedule",
+        "Assumption and source register",
+        "Timing exception summary"
+      ],
+      "prep": [
+        "Approved cash template",
+        "Authorized balance and timing inputs",
+        "Review frequency and finance owner"
+      ],
+      "example": "An expected receipt moves to a later date. Support records the owner\u2019s revised timing, marks the assumption change, and routes the updated schedule for finance review before circulation.",
+      "faq": [
+        {
+          "question": "Is this treasury or investment advice?",
+          "answer": "No. Support maintains approved schedules and documentation. Funding, investment, liquidity, and treasury decisions remain with your authorized professionals."
+        }
+      ],
+      "photoAlt": "Financial statements, checklist, and calculator on a desk",
+      "image": "/service-photography/cash-visibility-support.webp"
+    },
+    {
+      "slug": "finance-process-documentation",
+      "title": "Finance process documentation",
+      "benefit": "Make recurring finance procedures clear enough for a new owner to follow and a reviewer to inspect.",
+      "tasks": [
+        "Capture steps from process owners",
+        "Document source systems and approval points",
+        "Maintain version histories and exception paths",
+        "Prepare walkthrough notes and unresolved questions"
+      ],
+      "deliverables": [
+        "Versioned procedure guide",
+        "Responsibility and approval map",
+        "Walkthrough issue log"
+      ],
+      "prep": [
+        "Existing procedure examples",
+        "Process-owner interviews or notes",
+        "Approved control and access requirements"
+      ],
+      "example": "During a walkthrough, two teams name different owners for the same approval. Support records the conflict and waits for finance leadership to designate responsibility before finalizing the procedure.",
+      "faq": [
+        {
+          "question": "Does a documented procedure certify compliance?",
+          "answer": "No. Documentation makes the operating process visible. Control design, compliance conclusions, audit work, and professional assurance remain with your qualified advisers."
+        }
+      ],
+      "photoAlt": "Colleagues reviewing documents together at a laptop",
+      "image": "/service-photography/finance-process-documentation.webp"
+    },
+    {
+      "slug": "budget-forecast-coordination",
+      "title": "Budget and forecast coordination",
+      "benefit": "Collect department inputs and keep forecast versions ready for finance review.",
+      "tasks": [
+        "Maintain the budget calendar and department input checklist",
+        "Collect approved assumptions and supporting schedules",
+        "Check template completeness and identify version mismatches",
+        "Track finance review comments and revised submissions"
+      ],
+      "deliverables": [
+        "Department input tracker",
+        "Consolidated draft workbook",
+        "Assumption and revision register"
+      ],
+      "prep": [
+        "Approved budget templates and planning dates",
+        "Department owners and source schedules",
+        "Finance reviewer and version-control rules"
+      ],
+      "example": "One department updates its headcount plan after submitting its forecast. Support identifies the affected workbook version, requests the revised approved input, and flags the change to finance before consolidation.",
+      "faq": [
+        {
+          "question": "Who owns the forecast assumptions?",
+          "answer": "Your department leaders and finance team approve assumptions, accounting treatment, and the final forecast. Support collects inputs, maintains versions, and documents review status."
+        }
+      ],
+      "photoAlt": "Financial documents and calculations being checked at a desk",
+      "image": "/service-photography/budget-forecast-coordination.webp"
+    }
+  ],
+  "domain": "theoutsourcedcontroller.com",
+  "hero": "/service-photography/home.webp",
+  "heroAlt": "Finance professional checking records and calculations"
+}
