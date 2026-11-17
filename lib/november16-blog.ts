@@ -75,6 +75,11 @@ export const november16Blogs: October13Blog[] = [
     ]
    }
   ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
+  ],
   "sources": [
    {
     "label": "GAO - internal control standards",
@@ -161,6 +166,11 @@ export const november16Blogs: October13Blog[] = [
      "Make the handoff readable by the next shift and the next auditor. A clean-looking status is not evidence that the underlying work is correct. Keep the note short enough to read with the case. Keep the original request so a later correction does not erase the reason for the work. A close checklist dependency exception keeps evidence file attached and routes the question to the controller. The controller keeps the close checklist dependency owner and date beside the entry."
     ]
    }
+  ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
   ],
   "sources": [
    {
@@ -249,6 +259,11 @@ export const november16Blogs: October13Blog[] = [
     ]
    }
   ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
+  ],
   "sources": [
    {
     "label": "IRS - recordkeeping",
@@ -335,6 +350,11 @@ export const november16Blogs: October13Blog[] = [
      "Link the evidence to the exact field it supports. Name the owner and the date beside each decision. Archive the extract with the study so it can be repeated. Label the version of every file that can change. The revenue recognition schedule tie-out close note cites the revenue file, the approver, and the time of the final check. The controller keeps the revenue recognition schedule tie-out owner and date beside the entry."
     ]
    }
+  ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
   ],
   "sources": [
    {
@@ -423,6 +443,11 @@ export const november16Blogs: October13Blog[] = [
     ]
    }
   ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
+  ],
   "sources": [
    {
     "label": "IRS - recordkeeping",
@@ -509,6 +534,11 @@ export const november16Blogs: October13Blog[] = [
      "Make the handoff readable by the next shift and the next auditor. Link the evidence to the exact field it supports. A short written rule is easier to test than an unwritten habit. Keep the note short enough to read with the case. In this intercompany balance confirmation case, the record points to the intercompany register and names the controller as the decision owner. The controller keeps the intercompany balance confirmation owner and date beside the entry."
     ]
    }
+  ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
   ],
   "sources": [
    {
@@ -597,6 +627,11 @@ export const november16Blogs: October13Blog[] = [
     ]
    }
   ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
+  ],
   "sources": [
    {
     "label": "U.S. Department of Labor - recordkeeping",
@@ -683,6 +718,11 @@ export const november16Blogs: October13Blog[] = [
      "Use the same definition across the queue and the review so the counts agree. Do not store credentials or unnecessary personal data in the case. Name the owner for every open item, including items waiting on someone else. The record should show the source, the decision, and the surviving value in one place. The journal entry approval trail case note should show what the journal register held at the time and who reviewed it. The controller keeps the journal entry approval trail owner and date beside the entry."
     ]
    }
+  ],
+  "checklist": [
+   "Name the owner and the evidence.",
+   "Record the exception before closing.",
+   "Set the review date."
   ],
   "sources": [
    {
